@@ -16,12 +16,12 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 ## Iteração 1
 
-- [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
+- [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [vini de Sousa Barbosa](https://github.com/vinizin1v9)
 - [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo)
 - [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/viniciusuBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/viniciusUFT)
 - [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
-- [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
+- [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/vinizin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Responder solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
@@ -29,7 +29,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 ## Iteração 2
 
 
-- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
+- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [vini de Sousa Barbosa](https://github.com/vinizin1v9)
 - [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
 - [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [vini](https://github.com/MateusAlvez)
 - [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [vinicius Tavares](https://github.com/viniciusUFT)
@@ -323,7 +323,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br/>
 
-#### Autor: [@jeovazin1v9](https://github.com/jeovazin1v9) - Jeová de Sousa Barbosa
+#### Autor: [@vinizin1v9](https://github.com/vinizin1v9) - vini de Sousa Barbosa
 
 #### Revisor: [@jpnoronhaa](https://github.com/jpnoronhaa) - João Pedro Noronha
 
@@ -861,7 +861,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 #### Autor: [Benedito Jaime](https://github.com/beneX90)
 
-#### Revisor: [Jeová de Sousa](https://github.com/jeovazin1v9)
+#### Revisor: [vini de Sousa](https://github.com/vinizin1v9)
 
 <br/>
 
@@ -1135,7 +1135,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [@jeovazin1v9](https://github.com/jeovazin1v9) - Jeová de Sousa Barbosa
+#### Autor: [@vinizin1v9](https://github.com/vinizin1v9) - vini de Sousa Barbosa
 
 #### Revisor: [@jpnoronhaa](https://github.com/jpnoronhaa) - João Pedro Noronha
 
