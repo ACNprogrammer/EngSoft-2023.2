@@ -19,7 +19,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 - [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
 - [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo)
 - [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/viniciusuBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
-- [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/GabrielUFT)
+- [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/viniciusUFT)
 - [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Responder solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
@@ -32,7 +32,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
 - [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
 - [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [vini](https://github.com/MateusAlvez)
-- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
+- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [vinicius Tavares](https://github.com/viniciusUFT)
 - [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF14 -Oferecer suporte a diferentes métodos de pagamento (cartão de crédito, PayPal, etc.).  [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
@@ -179,7 +179,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 <br />
 
 #### Autor: [Érick Santos Marçal](https://github.com/erarich)
-#### Revisor: [Gabriel Tavares](https://github.com/GabrielUFT)
+#### Revisor: [vinicius Tavares](https://github.com/viniciusUFT)
 
 <br />
 
@@ -546,7 +546,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 #### Autor: [@luisfilipebandeira](https://github.com/luisfilipebandeira)
 
-#### Revisor: [Erick Marçal](https://github.com/erarich)
+#### Revisor: [vinicius Marçal](https://github.com/erarich)
 
 <br/>
 
@@ -803,7 +803,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [Gabriel Tavares dos Santos](https://github.com/GabrielUFT)
+#### Autor: [vinicius Tavares dos Santos](https://github.com/viniciusUFT)
 
 #### Revisor: [Luis FilipeBandeira](https://github.com/luisfilipebandeira) 
 
@@ -1012,7 +1012,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 <br/>
 
 #### Autor: [Érick Santos Marçal](https://github.com/erarich)
-#### Revisor: [Gabriel Tavares](https://github.com/GabrielUFT)
+#### Revisor: [vinicius Tavares](https://github.com/viniciusUFT)
 
 <br />
 
@@ -1617,7 +1617,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder deleta-las.|	At
 
 ## **RF28 - Exportar conteúdo**
 
-#### Autor: [Gabriel Tavares dos Santos](https://github.com/GabrielUFT)
+#### Autor: [vinicius Tavares dos Santos](https://github.com/viniciusUFT)
 
 #### Revisor: [Luis FilipeBandeira](https://github.com/luisfilipebandeira) 
 
