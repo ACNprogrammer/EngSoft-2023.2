@@ -144,11 +144,11 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF03 - Realizar Login;                                                       |
-| Resumo          | Ambos os niveis de acesso podem realizar login; |
-| Ator principal  | Usuarios realizam login;                                                    |
+| Resumo          | Todos os atores podem realizar login; |
+| Ator principal  | Usuario/Prestador de serviço;                                                    |
 | Ator secundário | -                                                                             |
-| Pré-condição    | O(s) ator(es) devem ter digitados seus dados corretamente                          |
-| Pós-condição    | A sessão dever ser iniciada.                                                                                      |
+| Pré-condição    | O(s) ator(es) devem informar seus dados corretamente                          |
+| Pós-condição    | Usuario logado.                                                                                      |
 
 <br/>
 
@@ -156,8 +156,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O usuário digita seus dados            |
-| Passo 2 | A verificaçaõ das credenciais é efetuada |
+| Passo 1 | O usuário informa seus dados            |
+| Passo 2 | A verificação das credenciais é efetuada |
 | Passo 3 | A sessão é iniciada em caso de login correto. |
 
 <br/>
