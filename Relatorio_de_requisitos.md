@@ -13,16 +13,15 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 ### Épico 2: Gerenciamento de Serviços -> RF08, RF10, RF14, RF22
 ### Épico 3: Gerenciamento de Solicitações de serviços -> RF09, RF11, RF23, RF27
 ### Épico 4: Avaliação de serviços -> RF02, RF03, RF06, RF07, RF16, RF17, RF20, RF21, RF25, RF28
-### Épico 5: Gerenciamento de Despesas e Receitas -> RF04, RF05, RF12, RF13, RF18, RF19, RF26
 
 ## Iteração 1
 
 - [X] RF01 -  Cadastrar prestador de serviço. [Benedito Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
 - [X] RF02 - Cadastrar usuário. [Caio Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
 - [X] RF03 -  Realizar Login. [Diogo Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
-- [X] RF04 -  Buscar prestadores de serviço por critérios. [Érick Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
+- [X] RF04 -  Cadastrar serviços. [Érick Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
 - [X] RF05 - Enviar solicitação de serviço. [Ícaro Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
-- [X] RF06 - Visualizar histórico de transações. [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
+- [X] RF06 - Buscar prestadores de serviço por critérios. [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Aceitar ou recusar solicitação de serviço. [João Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
@@ -60,7 +59,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Ator principal  | Prestador - se cadastrará;                                                    |
 | Ator secundário | -                                                                                   |
 | Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
-| Pós-condição    | A sessão dever ser iniciada.                                            |
+| Pós-condição    |                                          |
 
 <br/>
 
@@ -104,7 +103,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Ator principal  | Usuário - Cadastrar no sistema;                                                    |
 | Ator secundário | -                                                                                   |
 | Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
-| Pós-condição    |  A sessão dever ser iniciada.                                                                                   |
+| Pós-condição    |                                                                                    |
 
 <br/>
 
@@ -145,11 +144,11 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF03 - Realizar Login;                                                       |
-| Resumo          | Visualiza o extrato bancário de um determinado período; |
-| Ator principal  | Usuário - Visualiza seu extrato;                                                    |
+| Resumo          | Ambos os niveis de acesso podem realizar login; |
+| Ator principal  | Usuarios realizam login;                                                    |
 | Ator secundário | -                                                                             |
-| Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
-| Pós-condição    | -                                                                                   |
+| Pré-condição    | O(s) ator(es) devem ter digitados seus dados corretamente                          |
+| Pós-condição    | A sessão dever ser iniciada.                                                                                      |
 
 <br/>
 
@@ -157,9 +156,9 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O usuário seleciona a opção de visualizar o extrato no menu principal.            |
-| Passo 2 | O sistema pede para o usuário informar um período relativo ao qual deseja visualizar o extrato. |
-| Passo 3 | O sistema exibe o extrato do usuário no período informado. |
+| Passo 1 | O usuário digita seus dados            |
+| Passo 2 | A verificaçaõ das credenciais é efetuada |
+| Passo 3 | A sessão é iniciada em caso de login correto. |
 
 <br/>
 
@@ -169,13 +168,13 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 |  User Story                                        | Critério de aceitação                                 |
 | ------------------------------------------------- | ----------------------------------------------------- |
-| Enquanto **um usuário do aplicativo** eu preciso ser capaz de **visualizar o  meu extrato num período específico**, para que **eu tenha um controle melhor das minhas transações.** | Certifique-se de que o usuário é capaz de **acessar o aplicativo**. |
+| Enquanto **um ator do aplicativo** eu preciso ser capaz de **realizar login**, para que **eu possa ter acesso as funcionalidades do sistema** | Certifique-se de que o usuário é capaz de **acessar o aplicativo**. |
 
 <br/>
 
 ---
 
-## **RF04 - Inserir Despesas**
+## **RF04 - Cadastrar serviços**
 
 <br />
 
@@ -189,12 +188,12 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 |Item             | Descrição                                                           |
 | --------------- | -----------------------------------------------------------------   |
-| Caso de uso     | Inserir despesa                                                     |
-| Resumo          | É esperado que o usuário tenha a possibilidade de inserir as despesas|
-| Ator principal  | Usuário que faz uso da plataforma                                   |
+| Caso de uso     | Cadastrar serviços                                                  |
+| Resumo          | É esperado que o prestador tenha a possibilidade de inserir seus serviços prestados|
+| Ator principal  | prestador de serviço que faz uso da plataforma                                   |
 | Ator secundário | Não possui                                                          | 
-| Pré-condição    | É necessário que o usuário tenha uma conta na plataforma            |
-| Pós-condição    | É necessário que para inserir a conta o usuário tenha feito login   |
+| Pré-condição    | É necessário que o prestador tenha uma conta na plataforma            |
+| Pós-condição    | É necessário que para inserir o serviço o prestador tenha feito login   |
 
 <br />
 
@@ -203,8 +202,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Passos  | Descrição                                                                   |
 | ------- | -----------------------------------------                                   |
 | Passo 1 | Entrar no aplicativo e fazer login                                          |
-| Passo 2 | Entrar na seção de Despesas                                                 |
-| Passo 3 | Clicar no botão "Inserir"                                                   |
+| Passo 2 | Entrar na seção de cadastro de serviços                                                 |
+| Passo 3 | Clicar no botão "Inserir novo serviço"                                                   |
 | Passo 4 | Inserir campos do formulário                                                |
 | Passo 5 | Salvar                                                                      |
 <br />
@@ -213,7 +212,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Nome             | Sim          | Sim       | Texto        |
+| Nome do serviço             | Sim          | Sim       | Texto        |
 | Data             | Sim          | Sim       | Data         |
 | Conta            | Sim          | Sim       | Texto        |
 | Tipo             | Sim          | Sim       | Texto        |
