@@ -313,7 +313,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto "usuário comum" preciso poder pesquisar pelos mais diversos tipos de serviços.
+| Enquanto "usuário comum" preciso poder pesquisar pelos mais diversos tipos de serviços.| Digitar corretamente no campo de pesquisa |
 
 <br/>
 
