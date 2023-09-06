@@ -17,10 +17,10 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 ## Iteração 1
 
 - [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/CaioHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo)
+- [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo)
 - [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/DioguBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/GabrielUFT)
-- [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
+- [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Responder solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
@@ -30,10 +30,10 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
+- [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
 - [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
-- [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/CaioHPS3)
+- [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF14 -Oferecer suporte a diferentes métodos de pagamento (cartão de crédito, PayPal, etc.).  [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
@@ -88,7 +88,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br/>
 
-#### Autor: [@CaioHPS3](https://github.com/CaioHPS3) - Vinicius Maciel
+#### Autor: [@viniciusHPS3](https://github.com/viniciusHPS3) - Vinicius Maciel
 
 #### Revisor: [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
 
@@ -253,7 +253,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 <br />
 
 #### Autor: Icaro Mesquita Ponce[@icarompo](https://github.com/icarompo)
-#### Revisor: Caio Henrique Pinho Santos[@CaioHPS3](https://github.com/CaioHPS3)  
+#### Revisor: vinicius Henrique Pinho Santos[@viniciusHPS3](https://github.com/viniciusHPS3)  
 <br />
 
 ### Casos de Uso
@@ -914,7 +914,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [@CaioHPS3](https://github.com/CaioHPS3) - Caio Henrique Pinho Santos
+#### Autor: [@viniciusHPS3](https://github.com/viniciusHPS3) - vinicius Henrique Pinho Santos
 
 #### Revisor: [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
 
@@ -1074,7 +1074,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 <br/>
 
 #### Autor: [Ícaro Mesquita Ponce](https://github.com/icaromp)
-#### Revisor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
+#### Revisor: [vinicius Henrique Pinho](https://github.com/viniciusHPS3)
 
 <br />
 
