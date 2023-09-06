@@ -178,7 +178,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br />
 
-#### Autor: [Érick Santos Marçal](https://github.com/erarich)
+#### Autor: [vini](https://github.com/erarich)
 #### Revisor: [vinicius Tavares](https://github.com/viniciusUFT)
 
 <br />
@@ -1011,7 +1011,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [Érick Santos Marçal](https://github.com/erarich)
+#### Autor: [vini](https://github.com/erarich)
 #### Revisor: [vinicius Tavares](https://github.com/viniciusUFT)
 
 <br />
@@ -1347,7 +1347,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 <br/>
 
 #### Autor: [Luis Filipe Bandeira](https://github.com/luisfilipebandeira)
-#### Revisor: [Érick Santos Marçal](https://github.com/erarich)
+#### Revisor: [vini](https://github.com/erarich)
 
 <br/>
 
