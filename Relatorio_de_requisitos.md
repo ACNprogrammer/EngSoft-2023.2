@@ -16,26 +16,26 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 ## Iteração 1
 
-- [X] RF01 -  Cadastrar prestador de serviço. [Benedito Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF02 - Cadastrar usuário. [Caio Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
-- [X] RF03 -  Realizar Login. [Diogo Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
-- [X] RF04 -  Cadastrar serviços. [Érick Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
-- [X] RF05 -  Buscar prestadores de serviço por critérios. [Ícaro Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
-- [X] RF06 - Enviar solicitação de serviço. [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF07 - Aceitar ou recusar solicitação de serviço. [João Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
+- [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/CaioHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo)
+- [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/DioguBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
+- [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/GabrielUFT)
+- [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
+- [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
+- [X] RF07 - Aceitar ou recusar solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
 
 ## Iteração 2
 
 
-- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Benedito Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF09 - Avaliar e revisar prestadores de serviço. [Caio Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
-- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Diogo Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
-- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Érick Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
-- [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Ícaro Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
+- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
+- [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
+- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
+- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
+- [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
 - [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento (cartão de crédito, PayPal, etc.).  [João Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento (cartão de crédito, PayPal, etc.).  [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
 
