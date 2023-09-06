@@ -17,8 +17,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 ## Iteração 1
 
 - [X] RF01 -  Cadastrar prestador de serviço. [Vinícius Maciel](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo)
-- [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/DioguBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
+- [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo)
+- [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/viniciusuBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/GabrielUFT)
 - [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
@@ -30,8 +30,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
-- [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
-- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
+- [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
+- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
 - [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
@@ -90,7 +90,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 #### Autor: [@viniciusHPS3](https://github.com/viniciusHPS3) - Vinicius Maciel
 
-#### Revisor: [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
+#### Revisor: [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
 
 <br/>
 
@@ -133,7 +133,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br/>
 
-#### Autor: [@DioguBrabo](https://github.com/DioguBrabo) - Vinicius Maciel
+#### Autor: [@viniciusuBrabo](https://github.com/viniciusuBrabo) - Vinicius Maciel
 
 #### Revisor: [Mateus Alves Araujo](https://github.com/MateusAlvez)
 
@@ -916,7 +916,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 #### Autor: [@viniciusHPS3](https://github.com/viniciusHPS3) - vinicius Henrique Pinho Santos
 
-#### Revisor: [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
+#### Revisor: [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
 
 <br/>
 
@@ -959,7 +959,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [@DioguBrabo](https://github.com/DioguBrabo) - Diogo Eduardo da Silva
+#### Autor: [@viniciusuBrabo](https://github.com/viniciusuBrabo) - viniciuso Eduardo da Silva
 
 #### Revisor: [Mateus Alves Araujo](https://github.com/MateusAlvez)
 
