@@ -319,7 +319,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 ---
 
-## **RF06 - Visualizar receitas (valor) no mês.**
+## **RF06 - Enviar solicitação de serviço.**
 
 <br/>
 
@@ -333,8 +333,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
-| Caso de uso     | RF06 - Visualizar o valor das receitas  do mês                                              |
-| Resumo          | É esperado que o usuário tenha a possibilidade de visualizar o valor das receitas do mês                                                                     |
+| Caso de uso     | RF06 -  Enviar solicitação de serviço.                                             |
+| Resumo          | É esperado que o usuário tenha a possibilidade de Enviar solicitação de serviço.                                                                     |
 | Ator principal  | Usuário que faz uso da plataforma |
 | Ator secundário | Não possui                                                        | 
 | Pré-condição    | É necessário que o usuário tenha uma conta na plataforma e ter inserido alguma receita         |
@@ -346,21 +346,21 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Passos  | Descrição                                 |
 | ------- | ----------------------------------------- |
 | Passo 1 | Entrar no aplicativo e fazer login        |
-| Passo 2 | Estar no aplicativo e clicar no botão 'Visualizar receitas'|
+| Passo 2 | Estar no aplicativo e clicar no botão 'Solicitar serviço' no serviço desejado|
 
 <br/>
 
 #### Campos do formulário
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Receitas         | Não          | Não       | Texto        |
+| Serviços         | Não          | Não       | Texto        |
 
 <br/>
 
 #### Opções do usuário
 | Opção             | Descrição                 | Atalho |
 | -------------     | ------------------------- | ------ |
-| Ocultar receitas | Trocar o texto que mostra o valor das receitas por um alternativo |        |
+| Solicitar serviços | solicitar serviços |        |
 
 <br/>
 
