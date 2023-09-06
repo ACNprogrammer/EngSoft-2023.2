@@ -20,8 +20,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 - [X] RF02 - Cadastrar usuário. [Caio Henrique Pinho Santos](https://github.com/CaioHPS3) Revisado por [Diogo Eduardo da Silva](https://github.com/DioguBrabo)
 - [X] RF03 -  Realizar Login. [Diogo Eduardo da Silva](https://github.com/DioguBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF04 -  Cadastrar serviços. [Érick Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
-- [X] RF05 - Enviar solicitação de serviço. [Ícaro Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
-- [X] RF06 - Buscar prestadores de serviço por critérios. [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
+- [X] RF05 -  Buscar prestadores de serviço por critérios. [Ícaro Mesquita Ponce](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
+- [X] RF06 - Enviar solicitação de serviço. [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Aceitar ou recusar solicitação de serviço. [João Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
@@ -225,14 +225,14 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Opção         | Descrição                 | Atalho |
 | ------------- | ------------------------- | ------ |
-| Inserir despesa | Confirmar dados inseridos |        |
+| Inserir serviço | Confirmar dados inseridos |        |
 <br />
 
 #### Relatório de usuário
 
 | Campo                      | Descrição                                                             | Formato |
 | -------------------------- | --------------------------------------------------------------------- | ------- |
-| Despesa inserida com sucesso | Isso confirma e garante todo êxito na operação de inserção de despesa   | Texto   |
+| Serviço inserido com sucesso | Isso confirma e garante todo êxito na operação de inserção de serviço   | Texto   |
 <br />
 
                                    
@@ -242,13 +242,13 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto "usuário comum" preciso ter minhas despesas salvas na plataforma a fim de ter um controle sobre os meus gastos | Certificar que todos campos estao preenchidos
+| Enquanto "prestador de serviço" preciso ter meus serviços salvos na plataforma a fim de fornecer minha mão de obra. | Certificar que todos campos estao preenchidos
 
 <br/>
 
 ---
 
-## **RF05 - Inserir Receita**
+## **RF05 -  Buscar prestadores de serviço por critérios**
 
 <br />
 
@@ -261,22 +261,22 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
-| Caso de uso     | Inserir receita                                                   |
-| Resumo          | É esperado que o usuário tenha a possibilidade de inserir as receitas|
+| Caso de uso     | Buscar prestadores de serviço por critérios.                                                   |
+| Resumo          | É esperado que o usuário tenha a possibilidade de buscar pelos serviços mais adequados para ele|
 | Ator principal  | Usuário que faz uso da plataforma |
 | Ator secundário | Não possui                                                        | 
 | Pré-condição    | É necessário que o usuário tenha uma conta na plataforma          |
-| Pós-condição    | É necessário que para inserir a conta o usuário tenha feito login |
+| Pós-condição    | É necessário que para realizar a busca conta o usuário tenha feito login |
 <br />
 
 #### Fluxo principal
 | Passos  | Descrição                                 |
 | ------- | ----------------------------------------- |
 | Passo 1 | Entrar no aplicativo e fazer login        |
-| Passo 2 | Entrar na seção de Receitas               |
-| Passo 3 | Clicar no botão "Inserir"                 |
-| Passo 4 | Inserir campos do formulário              |
-| Passo 5 | Salvar                                    |
+| Passo 2 | Entrar na seção de Serviços               |
+| Passo 3 | Clicar no input de pesquisa                 |
+| Passo 4 | Inserir dados no campo              |
+| Passo 5 | Pesquisar                                    |
 <br />
 
 #### Campos do formulário
@@ -292,14 +292,14 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 #### Opções do usuário
 | Opção         | Descrição                 | Atalho |
 | ------------- | ------------------------- | ------ |
-| Inserir receita | Confirmar dados inseridos |        |
+| Pesquisar Serviço | Confirmar dados inseridos |        |
 <br />
 
 #### Relatório de usuário
 
 | Campo                      | Descrição                                                             | Formato |
 | -------------------------- | --------------------------------------------------------------------- | ------- |
-| Receita inserido com sucesso | Isso confirma e garante todo êxito na operação de inserção de receita   | Texto   |
+| Pesquisa realizada com sucesso | Isso confirma e garante todo êxito na operação de inserção de receita   | Texto   |
 <br />
 
 #### Fluxo alternativo
@@ -313,7 +313,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto "usuário comum" preciso ter minhas dados de receitas salvos na plataforma para ter um controle dos meus gastos| Certificar que todos campos estão preenchidos
+| Enquanto "usuário comum" preciso poder pesquisar pelos mais diversos tipos de serviços.
 
 <br/>
 
