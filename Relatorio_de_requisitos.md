@@ -22,7 +22,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 - [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/GabrielUFT)
 - [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [Caio Henrique Pinho Santos](https://github.com/CaioHPS3)
 - [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/jeovazin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF07 - Aceitar ou recusar solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF07 - Responder solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
 
