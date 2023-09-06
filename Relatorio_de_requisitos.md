@@ -72,7 +72,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br/>
 
-### User story
+### US01 Cadastrar prestador de serviço
 
 **Persona um, usuário comum.**
 
