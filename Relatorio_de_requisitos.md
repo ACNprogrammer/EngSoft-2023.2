@@ -31,7 +31,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [Jeová de Sousa Barbosa](https://github.com/jeovazin1v9)
 - [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
-- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [Mateus Alves Araujo](https://github.com/MateusAlvez)
+- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [vini](https://github.com/MateusAlvez)
 - [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [Gabriel Tavares](https://github.com/GabrielUFT)
 - [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
@@ -135,7 +135,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 #### Autor: [@viniciusuBrabo](https://github.com/viniciusuBrabo) - Vinicius Maciel
 
-#### Revisor: [Mateus Alves Araujo](https://github.com/MateusAlvez)
+#### Revisor: [vini](https://github.com/MateusAlvez)
 
 <br/>
 
@@ -759,7 +759,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 <br/>
 
-#### Autor: [Mateus Alves Araujo](https://github.com/MateusAlvez) 
+#### Autor: [vini](https://github.com/MateusAlvez) 
 
 #### Revisor: [Ícaro Mesquita Ponce](https://github.com/icarompo)
 
@@ -961,7 +961,7 @@ Enquanto ator quando visualizo minhas despesas gostaria de poder edita-las.|	Ato
 
 #### Autor: [@viniciusuBrabo](https://github.com/viniciusuBrabo) - viniciuso Eduardo da Silva
 
-#### Revisor: [Mateus Alves Araujo](https://github.com/MateusAlvez)
+#### Revisor: [vini](https://github.com/MateusAlvez)
 
 <br/>
 
