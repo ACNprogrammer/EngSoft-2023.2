@@ -55,7 +55,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF01 - Cadastrar prestador de serviço;                                                       |
 | Resumo          | Cadastrar um prestador de serviço ao sistema; |
-| Ator principal  | Prestador - se cadastrará;                                                    |
+| Ator principal  | Prestador de serviço;                                                    |
 | Ator secundário | -                                                                                   |
 | Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
 | Pós-condição    |                                          |
@@ -75,13 +75,21 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Nome do serviço             | Sim          | Sim       | Texto        |
-| Data             | Sim          | Sim       | Data         |
-| Conta            | Sim          | Sim       | Texto        |
-| Tipo             | Sim          | Sim       | Texto        |
-| Valor            | Sim          | Sim       | Numérico     |
+| Nome do prestador | Sim          | Sim       | Texto        |
+| Email             | Sim          | Sim       | Email         |
+| Senha            | Sim          | Sim       | Password        |
+| Confirmar senha  | Sim          | Sim       | Password        |
 
 <br/>
+
+#### Opções dos usúarios
+
+| Opção            | Descrição | Atalho | 
+| ---------------- | ------------ | --------- | 
+| Nome do prestador | Sim          | Sim       | 
+| Email             | Sim          | Sim       |
+| Senha            | Sim          | Sim       |
+| Confirmar senha  | Sim          | Sim       |
 
 ### US01 Cadastrar prestador de serviço
 
