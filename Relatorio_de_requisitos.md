@@ -100,7 +100,9 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Enquanto **um prestador de serviços** eu preciso ser capaz de **criar uma conta** para que **eu possa oferecer meus seerviços** | Certifique-se de que o prestador é capaz de **acessar o sistema**.
 
 <br />
+
 #### Prototipação de telas
+**Tela de login com marcação da opção 'Sou um prestador dde serviços'**
 <br />
 ---
 
