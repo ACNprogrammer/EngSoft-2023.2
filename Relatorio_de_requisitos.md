@@ -101,8 +101,9 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br />
 
-**Prototipação de telas**
-#### Tela de login com marcação da opção 'Sou um prestador dde serviços'
+### Prototipação de telas
+**Tela de login com marcação da opção 'Sou um prestador dde serviços'**
+
 <br />
 ---
 
