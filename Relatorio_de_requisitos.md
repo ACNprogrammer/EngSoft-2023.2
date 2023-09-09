@@ -50,7 +50,6 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 <br/>
 
-### Caso de uso
 
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
@@ -67,8 +66,20 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O prestador digita seus dados cadastrais.            |
-| Passo 2 | O sistema cadastra o prestador. |
+| Passo 1 | O prestador digita seus dados cadastrais nos campos adequados.            |
+| Passo 2 | Ao clicar no botão 'cadastrar' no final do formulário, o usuário é cadastrado. |
+
+<br/>
+
+#### Campos do formulário
+
+| Campo            | Obrigatório? | Editável? | Formato      |
+| ---------------- | ------------ | --------- | ------------ |
+| Nome do serviço             | Sim          | Sim       | Texto        |
+| Data             | Sim          | Sim       | Data         |
+| Conta            | Sim          | Sim       | Texto        |
+| Tipo             | Sim          | Sim       | Texto        |
+| Valor            | Sim          | Sim       | Numérico     |
 
 <br/>
 
