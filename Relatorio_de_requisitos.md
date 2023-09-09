@@ -16,6 +16,19 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 ### Requisitos Funcionais
 Os **Requisitos Funcionais** são uma lista dos recursos e funcionalidades específicas que o sistema, produto ou serviço deve oferecer. Isso pode incluir funcionalidades como login de usuário, solicitação de serviços, geração de relatórios, etc.
 
+### Requisitos não funcionais
+Requisitos que não estão diretamente relacionados a funcionalidades específicas, mas são igualmente importantes. Isso pode incluir requisitos de desempenho, segurança, escalabilidade, usabilidade, entre outros.
+
+### Cronograma
+
+### Orçamento
+
+### Critérios de Aceitação
+
+### Entregáveis
+
+###
+
 ### Épico 1: Gerenciamento de Usuário -> RF01, RF15, R24
 ### Épico 2: Gerenciamento de Serviços -> RF08, RF10, RF14, RF22
 ### Épico 3: Gerenciamento de Solicitações de serviços -> RF09, RF11, RF23, RF27
