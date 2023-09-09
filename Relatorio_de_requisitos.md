@@ -28,6 +28,7 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 ### Entregáveis
 
 ###
+## Épicos
 
 ### Épico 1: Gerenciamento de Usuário -> RF01, RF15, R24
 ### Épico 2: Gerenciamento de Serviços -> RF08, RF10, RF14, RF22
