@@ -91,7 +91,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Realizar login             | Redireciona o usuario para a tela de login          | Não possui       |
 
 
-### US01 Cadastrar prestador de serviço
+### US01 - Cadastrar prestador de serviço
 
 **Persona um, usuário comum.**
 
@@ -100,7 +100,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Enquanto **um prestador de serviços** eu preciso ser capaz de **criar uma conta** para que **eu possa oferecer meus seerviços** | Certifique-se de que o prestador é capaz de **acessar o sistema**.
 
 <br />
-
+### Prototipação de telas
 ---
 
 ## **RF02 - Cadastrar usuário**
