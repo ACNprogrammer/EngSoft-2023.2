@@ -93,7 +93,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 ### US01 - Cadastrar prestador de serviço
 
-**Persona um, usuário comum.**
+**Prestador de serviços.**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
