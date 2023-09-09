@@ -79,7 +79,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Nome  | Sim          | Sim       | Texto        |
 | Email             | Sim          | Sim       | Email         |
 | Senha            | Sim          | Sim       | Password        |
-| Confirmar senha  | Sim          | Sim       | Password        |
+| Confirmar senha  | Sim          | Não       | Password        |
 
 <br/>
 
