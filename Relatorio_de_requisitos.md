@@ -67,7 +67,8 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
 | Passo 1 | O prestador digita seus dados cadastrais nos campos adequados.            |
-| Passo 2 | Ao clicar no botão 'cadastrar' no final do formulário, o usuário é cadastrado. |
+| Passo 2 | Após preencher seus dados o usuario deve marcar a opção 'sou um prestador de serviços'. |
+| Passo 3 | Ao clicar no botão 'cadastrar' no final do formulário, o prestador de serviços é cadastrado. |
 
 <br/>
 
@@ -75,7 +76,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Nome do prestador | Sim          | Sim       | Texto        |
+| Nome  | Sim          | Sim       | Texto        |
 | Email             | Sim          | Sim       | Email         |
 | Senha            | Sim          | Sim       | Password        |
 | Confirmar senha  | Sim          | Sim       | Password        |
@@ -86,10 +87,9 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 | Opção            | Descrição | Atalho | 
 | ---------------- | ------------ | --------- | 
-| Nome do prestador | Sim          | Sim       | 
-| Email             | Sim          | Sim       |
-| Senha            | Sim          | Sim       |
-| Confirmar senha  | Sim          | Sim       |
+| Cadastrar | Cadastra um novo prestador de serviço          | Não possui       | 
+| Realizar login             | Redireciona o usuario para a tela de login          | Não possui       |
+
 
 ### US01 Cadastrar prestador de serviço
 
