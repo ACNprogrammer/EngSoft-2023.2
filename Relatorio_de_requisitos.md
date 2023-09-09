@@ -20,7 +20,7 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 - [X] RF02 - Cadastrar usuário. [Vinícius Maciel](https://github.com/viniciusHPS3) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo)
 - [X] RF03 -  Realizar Login. [Vinícius Maciel](https://github.com/viniciusuBrabo) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
 - [X] RF04 -  Cadastrar serviços. [Vinícius Maciel](https://github.com/erarich) Revisado por [Vinícius Maciel Tavares](https://github.com/viniciusUFT)
-- [X] RF05 -  Buscar prestadores de serviço por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
+- [X] RF05 -  Buscar serviços por critérios. [Vinícius Maciel](https://github.com/icarompo) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
 - [X] RF06 - Enviar solicitação de serviço. [Vinícius Maciel](https://github.com/vinizin1v9) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
 - [X] RF07 - Responder solicitação de serviço. [Vinícius Maciel](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
