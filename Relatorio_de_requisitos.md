@@ -22,6 +22,7 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 ### Cronograma
 
 |Período|Ações|
+| --------------- | ----------------------------------------------------------------------------------- |
 |Semana 1| Inicio do desenvolvimento do Relatório Especificação de Requisitos|
 |Semana 2| Conclusão e apresentação do Relatório Especificação de Requisitos|
 
