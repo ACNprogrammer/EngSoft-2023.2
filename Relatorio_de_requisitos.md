@@ -40,19 +40,19 @@ Após a conclusão de cada iteração, haverá uma revisão interna e externa pa
 
 Neste projeto, serão utilizadas várias tecnologias e ferramentas para o desenvolvimento, divididas entre o back-end, front-end e o sistema de gerenciamento de banco de dados (SGBD).
 
-**Back-End:**
+**Back-End:**<br/>
 Linguagem de Programação PHP: O back-end será desenvolvido utilizando PHP para implementar a lógica de negócios.
 
 Web Server: Um servidor web, como o Apache, será configurado para hospedar a aplicação PHP.
 
-**Front-End:**
+**Front-End:**<br/>
 HTML (HyperText Markup Language): Para criar a estrutura da interface do usuário e as páginas da web.
 
 CSS (Cascading Style Sheets): Para estilizar e formatar as páginas da web, garantindo uma aparência atraente e responsiva.
 
 JavaScript: Será usado para tornar a interface do usuário interativa e dinâmica, lidando com eventos do lado do cliente.
 
-**Banco de Dados:**
+**Banco de Dados:**<br/>
 PostgreSQL: Será usado como o Sistema de Gerenciamento de Banco de Dados (SGBD) principal. O PostgreSQL é um sistema de banco de dados relacional robusto e altamente escalável.
 
 ### Critérios de Aceitação
