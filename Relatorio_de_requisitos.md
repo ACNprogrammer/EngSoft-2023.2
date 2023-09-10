@@ -32,10 +32,12 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 
 ### Metodologia de Desenvolvimento
 O Kanban será usado para organizar e gerenciar o fluxo de trabalho da equipe. Criamos um quadro Kanban que representa o progresso do projeto, com colunas como "A fazer", "Em progresso" e "Concluído". As tarefas do Backlog serão adicionadas ao quadro e movidas conforme o progresso.
-<br/>
+
 O desenvolvimento seguirá a arquitetura MVC (Model-View-Controller) em PHP. Cada iteração abordará um conjunto específico de requisitos funcionais e será implementada seguindo os princípios do MVC.
-<br/>
+
 No final de cada iteração, a equipe realizará uma retrospectiva para avaliar o processo e identificar áreas de melhoria. Os aprendizados serão aplicados nas próximas iterações.
+
+Após a conclusão de cada iteração, haverá uma revisão interna e externa para garantir a qualidade do código e da funcionalidade implementada. Os feedbacks serão incorporados para refinamento contínuo.
 
 ### Tecnologias e Ferramentas
 Liste as tecnologias, linguagens de programação e ferramentas que serão usadas no desenvolvimento do projeto. Por exemplo, se você estiver usando uma linguagem específica, um banco de dados, um servidor web, etc.
