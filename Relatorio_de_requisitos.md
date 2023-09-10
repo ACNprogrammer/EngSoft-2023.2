@@ -23,6 +23,12 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 
 ### Orçamento
 
+### Metodologia de Desenvolvimento
+Descreva a metodologia de desenvolvimento que será utilizada no projeto. Por exemplo, se você está seguindo a metodologia ágil, como o Scrum, ou outro processo específico.
+
+### Tecnologias e Ferramentas
+Liste as tecnologias, linguagens de programação e ferramentas que serão usadas no desenvolvimento do projeto. Por exemplo, se você estiver usando uma linguagem específica, um banco de dados, um servidor web, etc.
+
 ### Critérios de Aceitação
 Os critérios de aceitação para este projeto incluem:
 
