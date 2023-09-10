@@ -28,11 +28,11 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 ### Entregáveis
 Os principais entregáveis deste projeto incluem:
 
-**Documentação de Requisitos:** Especificação detalhada dos requisitos funcionais e não funcionais do sistema.
-**Documentação de Design:** Descrição da arquitetura de software e design da plataforma.
-**Código Fonte:** O código-fonte do sistema hospedado no GitHub.
-**Relatórios de Progresso:** Relatórios de progresso semanais ou quinzenais para acompanhamento.
-**Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.
+**Documentação de Requisitos:** Especificação detalhada dos requisitos funcionais e não funcionais do sistema.<br/>
+**Documentação de Design:** Descrição da arquitetura de software e design da plataforma.<br/>
+**Código Fonte:** O código-fonte do sistema hospedado no GitHub.<br/>
+**Relatórios de Progresso:** Relatórios de progresso semanais ou quinzenais para acompanhamento.<br/>
+**Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.<br/>
 
 ###
 ## Épicos
