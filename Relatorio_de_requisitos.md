@@ -58,10 +58,11 @@ PostgreSQL: Será usado como o Sistema de Gerenciamento de Banco de Dados (SGBD)
 ### Critérios de Aceitação
 Os critérios de aceitação para este projeto incluem:
 
-Todas as funcionalidades especificadas nos requisitos funcionais estão implementadas e funcionando corretamente.
-A plataforma passou por testes de qualidade e os bugs foram corrigidos.
-A documentação está completa e bem organizada.
-A equipe apresentou o projeto de forma clara e demonstrou todas as funcionalidades.
+- [ ] Todas as funcionalidades especificadas nos requisitos funcionais estão implementadas e funcionando corretamente.
+- [ ] A plataforma passou por testes de qualidade e os bugs foram corrigidos.
+- [ ] A documentação está completa e bem organizada.
+- [ ] A equipe apresentou o projeto de forma clara e demonstrou todas as funcionalidades.
+
 
 ### Entregáveis
 Os principais entregáveis deste projeto incluem:
