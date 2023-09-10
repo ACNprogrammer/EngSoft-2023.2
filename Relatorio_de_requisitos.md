@@ -41,37 +41,34 @@ Após a conclusão de cada iteração, haverá uma revisão interna e externa pa
 Neste projeto, serão utilizadas várias tecnologias e ferramentas para o desenvolvimento, divididas entre o back-end, front-end e o sistema de gerenciamento de banco de dados (SGBD).
 
 **Back-End:**<br/>
-Linguagem de Programação PHP: O back-end será desenvolvido utilizando PHP para implementar a lógica de negócios.
-
-Web Server: Um servidor web, como o Apache, será configurado para hospedar a aplicação PHP.
+* Linguagem de Programação PHP: O back-end será desenvolvido utilizando PHP para implementar a lógica de negócios.
+* Web Server: Um servidor web, como o Apache, será configurado para hospedar a aplicação PHP.
 
 **Front-End:**<br/>
-HTML (HyperText Markup Language): Para criar a estrutura da interface do usuário e as páginas da web.
-
-CSS (Cascading Style Sheets): Para estilizar e formatar as páginas da web, garantindo uma aparência atraente e responsiva.
-
-JavaScript: Será usado para tornar a interface do usuário interativa e dinâmica, lidando com eventos do lado do cliente.
+* HTML (HyperText Markup Language): Para criar a estrutura da interface do usuário e as páginas da web.
+* CSS (Cascading Style Sheets): Para estilizar e formatar as páginas da web, garantindo uma aparência atraente e responsiva.
+* JavaScript: Será usado para tornar a interface do usuário interativa e dinâmica, lidando com eventos do lado do cliente.
 
 **Banco de Dados:**<br/>
-PostgreSQL: Será usado como o Sistema de Gerenciamento de Banco de Dados (SGBD) principal. O PostgreSQL é um sistema de banco de dados relacional robusto e altamente escalável.
+* PostgreSQL: Será usado como o Sistema de Gerenciamento de Banco de Dados (SGBD) principal. O PostgreSQL é um sistema de banco de dados relacional robusto e altamente escalável.
 
 ### Critérios de Aceitação
 Os critérios de aceitação para este projeto incluem:
 
 * Todas as funcionalidades especificadas nos requisitos funcionais estão implementadas e funcionando corretamente.
-- [ ] A plataforma passou por testes de qualidade e os bugs foram corrigidos.
-- [ ] A documentação está completa e bem organizada.
-- [ ] A equipe apresentou o projeto de forma clara e demonstrou todas as funcionalidades.
+* A plataforma passou por testes de qualidade e os bugs foram corrigidos.
+* A documentação está completa e bem organizada.
+* A equipe apresentou o projeto de forma clara e demonstrou todas as funcionalidades.
 
 
 ### Entregáveis
 Os principais entregáveis deste projeto incluem:
 
-**Documentação de Requisitos:** Especificação detalhada dos requisitos funcionais e não funcionais do sistema.<br/>
-**Documentação de Design:** Descrição da arquitetura de software e design da plataforma.<br/>
-**Código Fonte:** O código-fonte do sistema hospedado no GitHub.<br/>
-**Relatórios de Progresso:** Relatórios de progresso semanais ou quinzenais para acompanhamento.<br/>
-**Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.<br/>
+*  **Documentação de Requisitos:** Especificação detalhada dos requisitos funcionais e não funcionais do sistema.<br/>
+*  **Documentação de Design:** Descrição da arquitetura de software e design da plataforma.<br/>
+*  **Código Fonte:** O código-fonte do sistema hospedado no GitHub.<br/>
+*  **Relatórios de Progresso:** Relatórios de progresso semanais ou quinzenais para acompanhamento.<br/>
+*  **Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.<br/>
 
 ### Equipe de Projeto
  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
