@@ -40,6 +40,9 @@ Os principais entregáveis deste projeto incluem:
 **Relatórios de Progresso:** Relatórios de progresso semanais ou quinzenais para acompanhamento.<br/>
 **Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.<br/>
 
+### Equipe de Projeto
+ [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
+
 ###
 ## Épicos
 
