@@ -23,8 +23,10 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 
 |Período|Ações|
 | --------------- | ----------------------------------------------------------------------------------- |
-|Semana 1| Inicio do desenvolvimento do Relatório Especificação de Requisitos|
-|Semana 2| Conclusão e apresentação do Relatório Especificação de Requisitos|
+|Semana 1| Inicio do desenvolvimento do Relatório Especificação de Requisitos.|
+|Semana 2| Conclusão e apresentação do Relatório Especificação de Requisitos.|
+|Semana 3| Inicio do desenvolimento dos requisitos da 1º iteração.|
+|Semana 4| Conclusão do desenvolvimento da 1º iteração e apresentação dos resultados obtidos.|
 
 ### Orçamento
 
