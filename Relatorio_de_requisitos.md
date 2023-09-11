@@ -124,7 +124,7 @@ Os principais entregáveis deste projeto incluem:
 | Resumo          | Cadastrar um prestador de serviço ao sistema; |
 | Ator principal  | Prestador de serviço;                                                    |
 | Ator secundário | -                                                                                   |
-| Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
+| Pré-condição    | -                          |
 | Pós-condição    |                                          |
 
 <br/>
@@ -134,7 +134,7 @@ Os principais entregáveis deste projeto incluem:
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
 | Passo 1 | O prestador digita seus dados cadastrais nos campos adequados.            |
-| Passo 2 | Após preencher seus dados o usuario deve marcar a opção 'sou um prestador de serviços'. |
+| Passo 2 | Após preencher seus dados o prestador deve marcar a opção 'sou um prestador de serviços'. |
 | Passo 3 | Ao clicar no botão 'cadastrar' no final do formulário, o prestador de serviços é cadastrado. |
 
 <br/>
@@ -160,11 +160,11 @@ Os principais entregáveis deste projeto incluem:
 
 ### US01 - Cadastrar prestador de serviço
 
-**Prestador de serviços.**
+**Prestador de serviços**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto **um prestador de serviços** eu preciso ser capaz de **criar uma conta** para que **eu possa oferecer meus seerviços** | Certifique-se de que o prestador é capaz de **acessar o sistema**.
+| Enquanto **um prestador de serviços** eu preciso ser capaz de **criar uma conta** para que **eu possa oferecer meus seerviços** | O **prestador de serviços** deve poder se cadastrar no sistema.|
 
 <br />
 
@@ -184,15 +184,14 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-### Caso de uso
 
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF02 - Cadastrar usuário;                                                       |
-| Resumo          | O usuario pode se cadastrar no sistema; |
-| Ator principal  | Usuário - Cadastrar no sistema;                                                    |
+| Resumo          | Cadastrar um usuário no sistema; |
+| Ator principal  | Usuário;                                                    |
 | Ator secundário | -                                                                                   |
-| Pré-condição    | O(s) ator(es) deve ter acessado o sistema do aplicativo;                          |
+| Pré-condição    | -                          |
 | Pós-condição    |                                                                                    |
 
 <br/>
@@ -201,18 +200,18 @@ Os principais entregáveis deste projeto incluem:
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O usuário digita seus dados cadastrais.            |
-| Passo 2 | O sistema cadastra o usuario.
+| Passo 1 | O usuário digita seus dados cadastrais nos campos adequados.            |
+| Passo 2 | Ao clicar no botão 'cadastrar' no final do formulário, o usuário é cadastrado. |
 
 <br/>
 
- ### User story
+ ### US02 - Cadastrar usuário
 
-**Persona um, usuário comum.**
+**Usuário**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto **um usuário do aplicativo** eu preciso ser capaz de **me cadastrar no sistema** para que **eu possa analisar e solicitar serviços.**| Certifique-se de que o usuario é capaz de **acessar o sistema**.|
+| Enquanto **um usuário do aplicativo** eu preciso ser capaz de **me cadastrar no sistema** para que **eu possa analisar e solicitar serviços.**| O usuário deve poder se cadastrar no sistema|
 
 
 <br/>
