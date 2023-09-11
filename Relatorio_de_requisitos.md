@@ -98,11 +98,11 @@ Os principais entregáveis deste projeto incluem:
 
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Vinícius Maciel Jaime](https://github.com/beneX90) Revisado por [vini de Sousa Barbosa](https://github.com/vinizin1v9)
 - [X] RF09 - Avaliar e revisar prestadores de serviço. [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
-- [X] RF10 -  Manter perfis de prestadores de serviço atualizados (foto, descrição, etc.). [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [vini](https://github.com/MateusAlvez)
-- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço (aceitação, recusa, conclusão).. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [vinicius Tavares](https://github.com/viniciusUFT)
-- [X] RF12 -  Permitir que os usuários editem seus perfis (informações de contato, preferências, etc.). [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
-- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço (por avaliação, preço, etc.). Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento (cartão de crédito, PayPal, etc.).  [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF10 -  Manter perfis de prestadores de serviço atualizados. [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo) Revisado por [vini](https://github.com/MateusAlvez)
+- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço. [Vinícius Maciel Santos Marçal](https://github.com/erarich) Revisado por [vinicius Tavares](https://github.com/viniciusUFT)
+- [X] RF12 -  Permitir que os usuários editem seus perfis. [Vinícius Maciel Mesquita Ponce](https://github.com/icarompo) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
+- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço. Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
+- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento.  [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
 
 <br/>
 
@@ -424,7 +424,7 @@ Os principais entregáveis deste projeto incluem:
 | Resumo          | É esperado que o usuário tenha a possibilidade de buscar pelos serviços mais adequados para ele|
 | Ator principal  | Atores |
 | Ator secundário | Não possui                                                        | 
-| Pré-condição    |  É necessário que para realizar a busca conta o usuário tenha feito login         |
+| Pré-condição    |  É necessário que para realizar a busca conta o ator tenha feito login         |
 | Pós-condição    | Os dados de busca devem ser válidos |
 <br />
 
@@ -470,7 +470,7 @@ Os principais entregáveis deste projeto incluem:
 
 ---
 
-## **RF06 - Enviar solicitação de serviço.**
+## **RF06 - Enviar solicitação de serviço**
 
 <br/>
 
@@ -483,33 +483,34 @@ Os principais entregáveis deste projeto incluem:
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
 | Caso de uso     | RF06 -  Enviar solicitação de serviço.                                             |
-| Resumo          | É esperado que o usuário tenha a possibilidade de Enviar solicitação de serviço.                                                                     |
-| Ator principal  | Usuário que faz uso da plataforma |
+| Resumo          | É esperado que o ator tenha a possibilidade de Enviar solicitação de serviço.                                                                     |
+| Ator principal  | Usuário/Prestador de serviço|
 | Ator secundário | Não possui                                                        | 
-| Pré-condição    | É necessário que o usuário tenha uma conta na plataforma e ter inserido alguma receita         |
-| Pós-condição    | Não possui |
+| Pré-condição    | É necessário que o ator tenha efetuado o login.        |
+| Pós-condição    | - |
 
 <br/>
 
 #### Fluxo principal
 | Passos  | Descrição                                 |
 | ------- | ----------------------------------------- |
-| Passo 1 | Entrar no aplicativo e fazer login        |
-| Passo 2 | Estar no aplicativo e clicar no botão 'Solicitar serviço' no serviço desejado|
+| Passo 1 | Entrar na aba de serviços       |
+| Passo 2 | Digitar a data da prestação do serviço |
+| Passo 3 | Clicar no botão 'Solicitar serviço' no serviço desejado|
 
 <br/>
 
 #### Campos do formulário
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Serviços         | Não          | Não       | Texto        |
+| Data         | Não          | Sim       | Data        |
 
 <br/>
 
 #### Opções do usuário
 | Opção             | Descrição                 | Atalho |
 | -------------     | ------------------------- | ------ |
-| Solicitar serviços | solicitar serviços |        |
+| Solicitar serviços | Solicita o serviço selecionado |        |
 
 <br/>
 
@@ -517,25 +518,17 @@ Os principais entregáveis deste projeto incluem:
 
 | Campo      | Descrição   | Formato |
 | ---------- | ----------- |---------|
-| Não possui |             |         |
+| Erro ao solicitar o serviço | Ocorreu um erro ao solicitar o serviço |  Texto  |
 
 <br/>
 
-#### Fluxo alternativo
-| Passos    | Descrição |
-| --------  | --------------------------------------------------------------------------------------------- |
-| Passo 1.1 | O usuário não cadastrou nenhuma receita                                                         |
-| Passo 1.2 | O sistema informa que não há receitas cadastradas                                             |
+### US06 - Enviar solicitação de serviço
 
-<br/>
-
-### User Story
-
-**Persona um, usuário comum.**
+**Atores**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto **usuário do aplicativo** preciso ser capaz de **visualizar o valor das minhas receitas ou ocultá-las** para que **eu tenha um controle maior da minha situação financeira** | O usário poderá ver o valor das receitas do mês ou ocultá-las, se preferir, utilizando um botão ao lado.
+| Enquanto **um ator** preciso ser capaz de **solicitar a prestação de serviços** para que **eu possa ressolver meus problemas** | O ator deve poder solicitar serviços dentro da plataforma.
 
 <br/>
 
