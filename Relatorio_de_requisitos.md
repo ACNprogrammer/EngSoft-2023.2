@@ -157,6 +157,15 @@ Os principais entregáveis deste projeto incluem:
 | Cadastrar | Cadastra um novo prestador de serviço          | Não possui       | 
 | Realizar login             | Redireciona o usuario para a tela de login          | Não possui       |
 
+<br/>
+
+#### Relatório de usuário
+
+| Campo                      | Descrição                                                             | Formato |
+| -------------------------- | --------------------------------------------------------------------- | ------- |
+| Cadastro realizado copm sucesso | Informa que o cadastro foi efetuado com sucesso  | Texto   |
+
+<br/>
 
 ### US01 - Cadastrar prestador de serviço
 
@@ -169,7 +178,7 @@ Os principais entregáveis deste projeto incluem:
 <br />
 
 ### Prototipação de telas
-**Tela de login com marcação da opção 'Sou um prestador de serviços'**
+**Tela de cadastro com marcação da opção 'Sou um prestador de serviços'**
 
 <br />
 ---
@@ -211,6 +220,11 @@ Os principais entregáveis deste projeto incluem:
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
 | Enquanto **um usuário do aplicativo** eu preciso ser capaz de **me cadastrar no sistema** para que **eu possa analisar e solicitar serviços.**| O usuário deve poder se cadastrar no sistema|
+
+<br />
+
+### Prototipação de telas
+**Tela de cadastro sem marcação da opção 'Sou um prestador de serviços'**
 
 
 <br/>
@@ -274,6 +288,15 @@ Os principais entregáveis deste projeto incluem:
 | Login | Valida as credenciais do ator          | Não possui       | 
 | Cadastre-se             | Redireciona o usuario para a tela de cadastro          | Não possui       |
 
+<br />
+
+#### Relatório de usuário
+
+| Campo                      | Descrição                                                             | Formato |
+| -------------------------- | --------------------------------------------------------------------- | ------- |
+| Email e/ou senha incorretos | Informa que as credenciais são inválidas  | Texto   |
+
+<br />
 
 ### US03 - Realizar Login
 
@@ -284,6 +307,11 @@ Os principais entregáveis deste projeto incluem:
 | Enquanto **um ator do aplicativo** eu preciso ser capaz de **realizar login**, para que **eu possa ter acesso as funcionalidades do sistema** | Certifique-se de que o usuário é capaz de **acessar o aplicativo**. |
 
 <br/>
+
+### Prototipação de telas
+**Tela de login**
+
+<br />
 
 ---
 
@@ -296,17 +324,15 @@ Os principais entregáveis deste projeto incluem:
 
 <br />
 
-### Casos de Uso
-
 
 |Item             | Descrição                                                           |
 | --------------- | -----------------------------------------------------------------   |
 | Caso de uso     | Cadastrar serviços                                                  |
-| Resumo          | É esperado que o prestador tenha a possibilidade de inserir seus serviços prestados|
-| Ator principal  | prestador de serviço que faz uso da plataforma                                   |
-| Ator secundário | Não possui                                                          | 
-| Pré-condição    | É necessário que o prestador tenha uma conta na plataforma            |
-| Pós-condição    | É necessário que para inserir o serviço o prestador tenha feito login   |
+| Resumo          | É esperado que o prestador de serviços tenha a possibilidade de inserir seus serviços prestados|
+| Ator principal  | prestador de serviço                                 |
+| Ator secundário | -                                                          | 
+| Pré-condição    | É necessário que o prestador de serviço tenha efetuado o login.            |
+| Pós-condição    | Todos os campos do formulário de cadastro de serviço devem ser preenchidos corretamente.  |
 
 <br />
 
@@ -314,11 +340,10 @@ Os principais entregáveis deste projeto incluem:
 
 | Passos  | Descrição                                                                   |
 | ------- | -----------------------------------------                                   |
-| Passo 1 | Entrar no aplicativo e fazer login                                          |
-| Passo 2 | Entrar na seção de cadastro de serviços                                                 |
-| Passo 3 | Clicar no botão "Inserir novo serviço"                                                   |
-| Passo 4 | Inserir campos do formulário                                                |
-| Passo 5 | Salvar                                                                      |
+| Passo 1 | Entrar na seção de cadastro de meus serviços                                         |
+| Passo 2 | Clicar no botão "Inserir novo serviço"                                            |
+| Passo 3 | Inserir os dados adequados nos campos do formulário                                                  |
+| Passo 5 | Clicar em salvar serviço                                                                     |
 <br />
 
 #### Campos do formulário
@@ -326,10 +351,9 @@ Os principais entregáveis deste projeto incluem:
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
 | Nome do serviço             | Sim          | Sim       | Texto        |
-| Data             | Sim          | Sim       | Data         |
-| Conta            | Sim          | Sim       | Texto        |
 | Tipo             | Sim          | Sim       | Texto        |
 | Valor            | Sim          | Sim       | Numérico     |
+
 
 <br />
 
@@ -338,7 +362,8 @@ Os principais entregáveis deste projeto incluem:
 
 | Opção         | Descrição                 | Atalho |
 | ------------- | ------------------------- | ------ |
-| Inserir serviço | Confirmar dados inseridos |        |
+| Adicionar serviço | Cadastra um serviço no sistema | Não possui       |
+| Cancelar | Retorna Para a tela de meus serviços | Não possui       |
 <br />
 
 #### Relatório de usuário
@@ -346,12 +371,14 @@ Os principais entregáveis deste projeto incluem:
 | Campo                      | Descrição                                                             | Formato |
 | -------------------------- | --------------------------------------------------------------------- | ------- |
 | Serviço inserido com sucesso | Isso confirma e garante todo êxito na operação de inserção de serviço   | Texto   |
+| Erro ao inserir serviço | Informa que ocorreu um erro ao inserir o serviço   | Texto   |
+| Dados incorretos | Informa que os dados inseridos são inválidos   | Texto   |
 <br />
 
                                    
-### User Story
+### US04 - Cadastrar serviços
 
-**Persona um, usuário comum.**
+**Usuário/Prestador de serviços**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
