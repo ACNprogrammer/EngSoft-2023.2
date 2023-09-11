@@ -184,7 +184,6 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF02 - Cadastrar usuário;                                                       |
@@ -228,8 +227,6 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-### Caso de uso
-
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF03 - Realizar Login;                                                       |
@@ -245,7 +242,7 @@ Os principais entregáveis deste projeto incluem:
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O usuário informa seus dados            |
+| Passo 1 | O(s) Ator(es) informam seus dados           |
 | Passo 2 | A verificação das credenciais é efetuada |
 | Passo 3 | A sessão é iniciada em caso de login correto. |
 
@@ -255,13 +252,32 @@ Os principais entregáveis deste projeto incluem:
 
 | Passos  | Descrição                                           |
 | ------- | --------------------------------------------------- |
-| Passo 1 | O usuário informa seus dados            |
+| Passo 1 | O(s) Ator(es) informam seus dados            |
 | Passo 2 | A verificação das credenciais é efetuada |
 | Passo 3 | A sessão não é iniciada e o usuário é redirecionado para a tela de login. |
 
-### User story
+<br/>
 
-**Persona um, usuário comum.**
+#### Campos do formulário
+
+| Campo            | Obrigatório? | Editável? | Formato      |
+| ---------------- | ------------ | --------- | ------------ |
+| Email             | Sim          | Sim       | Email         |
+| Senha            | Sim          | Sim       | Password        |
+
+<br/>
+
+#### Opções dos usúarios
+
+| Opção            | Descrição | Atalho | 
+| ---------------- | ------------ | --------- | 
+| Login | Valida as credenciais do ator          | Não possui       | 
+| Cadastre-se             | Redireciona o usuario para a tela de cadastro          | Não possui       |
+
+
+### US03 - Realizar Login
+
+**Prestador de serviço/Usuário**
 
 |  User Story                                        | Critério de aceitação                                 |
 | ------------------------------------------------- | ----------------------------------------------------- |
