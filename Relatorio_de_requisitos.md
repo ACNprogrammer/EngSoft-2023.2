@@ -233,11 +233,11 @@ Os principais entregáveis deste projeto incluem:
 | Item            | Descrição                                                                           |
 | --------------- | ----------------------------------------------------------------------------------- |
 | Caso de uso     | RF03 - Realizar Login;                                                       |
-| Resumo          | Todos os atores podem realizar login; |
+| Resumo          | Realizar o login dos atores; |
 | Ator principal  | Usuario/Prestador de serviço;                                                    |
 | Ator secundário | -                                                                             |
-| Pré-condição    | O(s) ator(es) devem informar seus dados corretamente                          |
-| Pós-condição    | Usuario logado.                                                                                      |
+| Pré-condição    | O(s) ator(es) devem ter um cadastro no sistema.                         |
+| Pós-condição    | Os dados do(s) ator(er) devem estar corretos                                                                                      |
 
 <br/>
 
@@ -250,6 +250,14 @@ Os principais entregáveis deste projeto incluem:
 | Passo 3 | A sessão é iniciada em caso de login correto. |
 
 <br/>
+
+#### Fluxo alternativo
+
+| Passos  | Descrição                                           |
+| ------- | --------------------------------------------------- |
+| Passo 1 | O usuário informa seus dados            |
+| Passo 2 | A verificação das credenciais é efetuada |
+| Passo 3 | A sessão não é iniciada e o usuário é redirecionado para a tela de login. |
 
 ### User story
 
