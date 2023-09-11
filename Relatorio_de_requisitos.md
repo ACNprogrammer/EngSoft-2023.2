@@ -1,4 +1,4 @@
-# Relatório Especificação de Requisitos
+# Relatório Especificação de Requisitos SKILLSYNC
 
 ## Engenharia de software 2023.2 | Universidade Federal do Tocantins - Palmas, 2023
 
