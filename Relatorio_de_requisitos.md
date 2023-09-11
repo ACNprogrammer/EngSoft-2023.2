@@ -155,7 +155,7 @@ Os principais entregáveis deste projeto incluem:
 | Opção            | Descrição | Atalho | 
 | ---------------- | ------------ | --------- | 
 | Cadastrar | Cadastra um novo prestador de serviço          | Não possui       | 
-| Realizar login             | Redireciona o usuario para a tela de login          | Não possui       |
+| Realizar login             | Redireciona o prestador para a tela de login          | Não possui       |
 
 <br/>
 
@@ -163,7 +163,9 @@ Os principais entregáveis deste projeto incluem:
 
 | Campo                      | Descrição                                                             | Formato |
 | -------------------------- | --------------------------------------------------------------------- | ------- |
-| Cadastro realizado copm sucesso | Informa que o cadastro foi efetuado com sucesso  | Texto   |
+| Cadastro realizado com sucesso | Informa que o cadastro foi efetuado com sucesso  | Texto   |
+| Erro ao realizar o cadastro | Informa que ocorreu um erro durante o cadastro  | Texto   |
+| Senha e confirmar senha não conferem | Informa a senha e a confirmação da senha estão diferentes  | Texto   |
 
 <br/>
 
@@ -211,6 +213,24 @@ Os principais entregáveis deste projeto incluem:
 | Passo 1 | O usuário digita seus dados cadastrais nos campos adequados.            |
 | Passo 2 | Ao clicar no botão 'cadastrar' no final do formulário, o usuário é cadastrado. |
 
+<br/>
+
+#### Opções dos usúarios
+
+| Opção            | Descrição | Atalho | 
+| ---------------- | ------------ | --------- | 
+| Cadastrar | Cadastra um novo usuário          | Não possui       | 
+| Realizar login             | Redireciona o usuário para a tela de login          | Não possui       |
+
+<br/>
+
+#### Relatório de usuário
+
+| Campo                      | Descrição                                                             | Formato |
+| -------------------------- | --------------------------------------------------------------------- | ------- |
+| Cadastro realizado com sucesso | Informa que o cadastro foi efetuado com sucesso  | Texto   |
+| Erro ao realizar o cadastro | Informa que ocorreu um erro durante o cadastro  | Texto   |
+| Senha e confirmar senha não conferem | Informa a senha e a confirmação da senha estão diferentes  | Texto   |
 <br/>
 
  ### US02 - Cadastrar usuário
