@@ -402,13 +402,13 @@ Os principais entregáveis deste projeto incluem:
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto "prestador de serviço" preciso ter meus serviços salvos na plataforma a fim de fornecer minha mão de obra. | Certificar que todos campos estao preenchidos
+| Enquanto "prestador de serviço" preciso ter meus serviços salvos na plataforma a fim de fornecer minha mão de obra. | O prestador de serviços deve ser capaz de cadastrar seus serviços. |
 
 <br/>
 
 ---
 
-## **RF05 -  Buscar prestadores de serviço por critérios**
+## **RF05 -  Buscar serviço por critérios**
 
 <br />
 
@@ -416,64 +416,55 @@ Os principais entregáveis deste projeto incluem:
 #### Revisor: vinicius Henrique Pinho Santos[@viniciusHPS3](https://github.com/viniciusHPS3)  
 <br />
 
-### Casos de Uso
 <br />
 
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
-| Caso de uso     | Buscar prestadores de serviço por critérios.                                                   |
+| Caso de uso     | Buscar serviço por critérios.                                                   |
 | Resumo          | É esperado que o usuário tenha a possibilidade de buscar pelos serviços mais adequados para ele|
-| Ator principal  | Usuário que faz uso da plataforma |
+| Ator principal  | Atores |
 | Ator secundário | Não possui                                                        | 
-| Pré-condição    | É necessário que o usuário tenha uma conta na plataforma          |
-| Pós-condição    | É necessário que para realizar a busca conta o usuário tenha feito login |
+| Pré-condição    |  É necessário que para realizar a busca conta o usuário tenha feito login         |
+| Pós-condição    | Os dados de busca devem ser válidos |
 <br />
 
 #### Fluxo principal
 | Passos  | Descrição                                 |
 | ------- | ----------------------------------------- |
-| Passo 1 | Entrar no aplicativo e fazer login        |
-| Passo 2 | Entrar na seção de Serviços               |
-| Passo 3 | Clicar no input de pesquisa                 |
-| Passo 4 | Inserir dados no campo              |
-| Passo 5 | Pesquisar                                    |
+| Passo 1 | Entrar na seção de Serviços               |
+| Passo 2 | Clicar no input de pesquisa                 |
+| Passo 3 | Inserir dados no campo              |
+| Passo 4 | Pesquisar                                    |
 <br />
 
 #### Campos do formulário
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Nome             | Sim          | Sim       | Texto        |
-| Data             | Sim          | Sim       | Data         |
-| Conta            | Sim          | Sim       | Texto        |
-| Tipo             | Sim          | Sim       | Texto        |
-| Valor            | Sim          | Sim       | Numérico     |
+| Pesquisa             | Sim          | Sim       | Texto        |
+
 <br />
 
 #### Opções do usuário
 | Opção         | Descrição                 | Atalho |
 | ------------- | ------------------------- | ------ |
-| Pesquisar Serviço | Confirmar dados inseridos |        |
+| Pesquisar Serviço | Uma busca com base nos dados de entrada do ator é efetuada |  Não possui      |
 <br />
 
 #### Relatório de usuário
 
 | Campo                      | Descrição                                                             | Formato |
 | -------------------------- | --------------------------------------------------------------------- | ------- |
-| Pesquisa realizada com sucesso | Isso confirma e garante todo êxito na operação de inserção de receita   | Texto   |
+| Nenhum serviço encontrado! | Não foi possível encontrar nenhum serviço com os parâmetros inseridos.   | Texto   |
 <br />
 
-#### Fluxo alternativo
 
-| Não Possui                                 |
-<br /><br />
+### US05 - Buscar serviço por critérios
 
-### User Story
-
-**Persona um, usuário comum.**
+**Atores**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto "usuário comum" preciso poder pesquisar pelos mais diversos tipos de serviços. | Digitar corretamente no campo de pesquisa |
+| Enquanto "um ator" do sistema preciso poder pesquisar pelos mais diversos tipos de serviços. | Digitar corretamente no campo de pesquisa |
 
 <br/>
 
@@ -488,8 +479,6 @@ Os principais entregáveis deste projeto incluem:
 #### Revisor: [@jpnoronhaa](https://github.com/jpnoronhaa) - João Pedro Noronha
 
 <br/>
-
-### Caso de uso
 
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
