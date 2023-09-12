@@ -918,8 +918,8 @@ Os principais entregáveis deste projeto incluem:
 
 *Persona um, usuário comum.*
 
-| User Story                                                                                                                                                                    | Critério de aceitação                                                 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| "Enquanto um usuário, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." | Certificar que o usuário tenha feito uma solicitação. |
+|  User Story                                                                                                                                                  | Critério de aceitação                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |                                                              | "Enquanto um *usuário*, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." | Certificar que o usuário tenha feito uma solicitação. |
 
 <br />
 
