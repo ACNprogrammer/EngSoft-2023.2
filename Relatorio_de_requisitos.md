@@ -29,6 +29,11 @@ Os **Requisitos Funcionais** são uma lista dos recursos e funcionalidades espec
 ### Requisitos não funcionais
 Requisitos que não estão diretamente relacionados a funcionalidades específicas, mas são igualmente importantes. Isso pode incluir requisitos de desempenho, segurança, escalabilidade, usabilidade, entre outros.
 
+**Usuário:** Este ator possui um nível de acesso básico dentro da aplicação. Suas principais ações incluem visualizar os serviços disponíveis e solicitar a prestação desses serviços.
+
+**Prestador de Serviço:** Este ator tem todas as funcionalidades de um usuário, com a adição de privilégios adicionais. Além de poder visualizar e solicitar serviços, o prestador de serviço tem a capacidade de adicionar e gerenciar os serviços que oferece. Isso inclui a criação, edição e exclusão de serviços, bem como a definição de preços e informações detalhadas sobre os serviços prestados.
+
+Esses dois atores desempenham papéis distintos no sistema SkillSync, refletindo as diferentes necessidades e responsabilidades de cada grupo de usuários.
 ### Cronograma
 
 |Período|Ações|
