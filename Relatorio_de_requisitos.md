@@ -534,7 +534,7 @@ Os principais entregáveis deste projeto incluem:
 
 ---
 
-## **RF07 - Visualizar despesas (valor) no mês**
+## **RF07 -  Responder solicitação de serviço**
 
 <br/>
 
@@ -544,15 +544,13 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-### Caso de uso
-
 |Item             | Descrição                                                         |
 | --------------- | ----------------------------------------------------------------- |
-| Caso de uso     | Visualizar despesas (valor) no mês                                |
+| Caso de uso     | O prestador pode responder as solicitações de serviço                                |
 | Resumo          | Visualiza o somatório das despesas que o usário teve no mês       |
-| Ator principal  | Usuário que faz uso da plataforma                                 |
+| Ator principal  | Prestador de serviços                                 |
 | Ator secundário | Não possui                                                        | 
-| Pré-condição    | É necessário que o usuário tenha uma conta na plataforma e adicionado alguma despesa                                                                               |
+| Pré-condição    |É necessário que o ator tenha efetuado o login.                                                                               |
 | Pós-condição    | Não possui                                                        | 
 
 <br/>
@@ -560,22 +558,25 @@ Os principais entregáveis deste projeto incluem:
 #### Fluxo principal
 | Passos  | Descrição                                 |
 | ------- | ----------------------------------------- |
-| Passo 1 | Entrar no aplicativo e fazer login        |
-| Passo 2 | Visualizar o valor das despesas           |
+| Passo 1 | Entrar na página de respostas a solicitações de serviços        |
+| Passo 2 | Visualizar as solicitações           |
+| Passo 3 | Responder as solicitações           |
 
 <br/>
 
 #### Campos do formulário
 | Campo            | Obrigatório? | Editável? | Formato      |
 | ---------------- | ------------ | --------- | ------------ |
-| Despesas         | Não          | Não       | Texto        |
+| Descrição         | Não          | Sim       | Texto        |
 
 <br/>
 
 #### Opções do usuário
 | Opção             | Descrição                                                         | Atalho |
 | ----------------- | ----------------------------------------------------------------- | ------ |
-| Esconder despesas | Trocar o texto que mostra o valor das despesas por um alternativo |        |
+| Aprovar solicitação | Trocar o status da requisição para aprovado. |  Não possui  |
+| Reprovar solicitação | Trocar o status da requisição para reprovado. |  Não possui  |
+| Em análise | Trocar o status da requisição para em análise. |  Não possui  |
 
 <br/>
 
@@ -583,25 +584,25 @@ Os principais entregáveis deste projeto incluem:
 
 | Campo      | Descrição  | Formato |
 | ---------- | ---------- | ------- |
-| Não possui |            |         |
+| Solicitação alterada com sucesso |   Status da solicitação foi alterado         |    Texto     |
 
 <br/>
 
 #### Fluxo alternativo
 | Passos    | Descrição                                               |
 | --------  | ------------------------------------------------------- |
-| Passo 1.1 | O ator não cadastrou nenhuma despesa                    |
-| Passo 1.2 | O sistema informa que não existem despesas cadastradas  |
+| Passo 1.1 | O sistema não possui nenhum serviço cadastrado                   |
+| Passo 1.2 | O sistema informa que não existem serviços cadastradas  |
 <br />
 
 
-### User Story
+### US07 -  Responder solicitação de serviço
 
-**Persona um, usuário comum.**
+**Prestador de serviço**
 
 | User Story | Critério de aceitação |
 | --------- | --------------------- |
-| Enquanto um **usuário do aplicativo** eu preciso ser capaz de **visualizar o valor das minhas despesas ou ocultá-las** para que **eu tenha um controle da minha situação financeira**. | O usário poderá ver o valor das despesas do mês ou ocultá-las, se preferir, utilizando um botão ao lado. 
+| Enquanto um **prestador de serviço** eu preciso ser capaz de **responder as solicitações de serviço** para que **eu possa ter um controle melhor da minha profissão**. | O prestador deve poder responder as solicitações de serviço. 
 
 <br/>
 
