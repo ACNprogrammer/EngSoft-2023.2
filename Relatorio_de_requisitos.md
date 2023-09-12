@@ -507,6 +507,7 @@ Os principais entregáveis deste projeto incluem:
 | Enquanto "um ator" do sistema preciso poder pesquisar pelos mais diversos tipos de serviços. | Digitar corretamente no campo de pesquisa |
 
 <br/>
+
 ### Prototipação de telas
 **Tela de busca de serviços**
 
