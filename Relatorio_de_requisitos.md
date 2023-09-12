@@ -119,11 +119,10 @@ Os principais entregáveis deste projeto incluem:
 - [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Wanderson Melo](https://github.com/sadMello) Revisado por [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
 - [X] RF09 - Avaliar e revisar prestadores de serviço.  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/) Revisado por [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
 - [X] RF10 -  Manter perfis de prestadores de serviço atualizados. [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/) Revisado por [Wanderson Melo](https://github.com/sadMello)
-- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
-- [X] RF12 -  Permitir que os usuários editem seus perfis. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [Loenis Fernandes](https://github.com/loenisjunior)
-- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [Pedro Trivelato](https://github.com/Ptrivelato)(https://github.com/jpnoronhaa)
-- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento.  [Raphael Sales de Souza](https://github.com/raphaelsales) Revisado por [Raphael Sales de Souza](https://github.com/raphaelsales)(https://github.com/uiuqM)
-
+- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [Loenis Fernandes](https://github.com/loenisjunior)
+- [X] RF12 -  Permitir que os usuários editem seus perfis. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
+- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [Raphael Sales de Souza](https://github.com/raphaelsales)
+- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento.  [Raphael Sales de Souza](https://github.com/raphaelsales) Revisado por [Pedro Trivelato](https://github.com/Ptrivelato)
 <br/>
 
 ---
