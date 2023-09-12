@@ -38,8 +38,6 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 |Semana 3| Inicio do desenvolimento dos requisitos da 1º iteração.|
 |Semana 4| Conclusão do desenvolvimento da 1º iteração e apresentação dos resultados obtidos.|
 
-### Orçamento
-
 ### Metodologia de Desenvolvimento
 O Kanban será usado para organizar e gerenciar o fluxo de trabalho da equipe. Criamos um quadro Kanban que representa o progresso do projeto, com colunas como "A fazer", "Em progresso" e "Concluído". As tarefas do Backlog serão adicionadas ao quadro e movidas conforme o progresso.
 O desenvolvimento seguirá a arquitetura MVC (Model-View-Controller) em PHP. Cada iteração abordará um conjunto específico de requisitos funcionais e será implementada seguindo os princípios do MVC.
