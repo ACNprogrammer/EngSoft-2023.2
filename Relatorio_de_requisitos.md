@@ -79,13 +79,13 @@ Os principais entregáveis deste projeto incluem:
 *  **Apresentação Final:** Uma apresentação que destaca as funcionalidades e realizações do projeto.<br/>
 
 ### Equipe de Projeto
- [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
- [Raphael Sales de Souza](https://github.com/raphaelsales)
- [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
-[Jorge Antonio Motta Braga](https://github.com/jorgespark11)
-[Wanderson Melo](https://github.com/sadMello)
-[Pedro Trivelato](https://github.com/Ptrivelato)
-[Loenis Fernandes](https://github.com/loenisjunior)
+ [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)<br/>
+ [Raphael Sales de Souza](https://github.com/raphaelsales)<br/>
+ [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)<br/>
+[Jorge Antonio Motta Braga](https://github.com/jorgespark11)<br/>
+[Wanderson Melo](https://github.com/sadMello)<br/>
+[Pedro Trivelato](https://github.com/Ptrivelato)<br/>
+[Loenis Fernandes](https://github.com/loenisjunior)<br/>
 
 ###
 ## Épicos
