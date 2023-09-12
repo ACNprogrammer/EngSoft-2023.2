@@ -12,7 +12,7 @@ O projeto desenvolvido na disciplina Engenharia de Software do semestre 2023.2 �
 Desenvolver uma plataforma de prestação de serviços que conecta prestadores de serviços a usuários, permitindo que os prestadores ofereçam seus serviços e os usuários solicitem os mesmos. A plataforma deve permitir que os prestadores de serviços criem perfis com informações pessoais, habilidades e preços, além de possibilitar a criação de perfis de usuários com informações de contato e preferências. Os usuários devem ser capazes de buscar e filtrar prestadores com base em critérios como localização e classificações, enviar solicitações de serviços e visualizar históricos de transações. Além disso, o sistema deve suportar a avaliação e revisão de prestadores e oferecer funcionalidades de pagamento seguro.
 
 ### Objetivos
-
+FUS!!
 * Conectar prestadores de serviços a usuários, facilitando a oferta e solicitação de serviços.
 * Permitir que prestadores de serviços criem perfis detalhados com informações pessoais, habilidades e preços.
 * Possibilitar aos usuários a criação de perfis com informações de contato e preferências.
@@ -804,7 +804,7 @@ Os principais entregáveis deste projeto incluem:
 
 | User Story | Critério de aceitação |
 | ---------- | --------------------- |
-| Enquanto "usuário comum" preciso ter a possibilidade de avaliar um prestador de serviços e ver suas avaliações. | Certificar que todos campos estão preenchidos. |
+| Enquanto **usuário comum** preciso ter a possibilidade de avaliar um prestador de serviços e ver suas avaliações. | Certificar que todos campos estão preenchidos. |
 
 <br />
 
@@ -865,7 +865,7 @@ Os principais entregáveis deste projeto incluem:
 
 ### US10 - Manter perfis de prestadores de serviço atualizados.
 
-**Persona um, usuário comum.**
+**Prestador de serviço**
 
 |  User Story                                                                                                                                                  | Critério de aceitação                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -921,7 +921,7 @@ Os principais entregáveis deste projeto incluem:
 
 |  User Story                                                                                                                                                  | Critério de aceitação                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-|"Enquanto um *usuário*, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." |  Certificar que o usuário tenha feito uma solicitação. |
+|"Enquanto um **usuário**, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." |  Certificar que o usuário tenha feito uma solicitação. |
 
 
 
@@ -992,6 +992,8 @@ Os principais entregáveis deste projeto incluem:
 
 ### US12 - Permitir que os usuários editem seus perfis.
 
+**Usuário**
+
 | User story                                                                                                  | Critério de aceitação                                                     |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Enquanto usuário quando visualizo **meu perfil** necessito ser capaz de **alterar e atualizar** minhas informações. | Ator necessita ter perfil.   |
@@ -1061,7 +1063,7 @@ Os principais entregáveis deste projeto incluem:
 
 ### US13 - Implementar funcionalidade de pesquisa avançada de prestadores de serviço.
 
-**Persona um, usuário comum.**
+**Usuário**
 
 | User Story                                                                                                                                                                                                         | Critério de aceitação                                         |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -1162,11 +1164,11 @@ Os principais entregáveis deste projeto incluem:
 
 ### US14 - Oferecer suporte a diferentes métodos de pagamento.
 
-**Persona um, usuário comum.**
+**Atores**
 
 | User Story                                                                                                                                                                                                                           | Critério de aceitação                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Enquanto um **Usuário** eu preciso ser capaz de **editar, adicionar e excluir** métodos de pagamentos para que **eu possa ter mais acessibilidade no pagamento** e **mais segurança nas minhas informações financeiras**. | Certifique-se de que o método de pagamento posto pelo usuário é válido.  |
+| Enquanto um **ator** eu preciso ser capaz de **editar, adicionar e excluir** métodos de pagamentos para que **eu possa ter mais acessibilidade no pagamento** e **mais segurança nas minhas informações financeiras**. | Certifique-se de que o método de pagamento posto pelo usuário é válido.  |
 
 <br />
 
