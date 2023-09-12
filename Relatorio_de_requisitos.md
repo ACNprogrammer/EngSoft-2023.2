@@ -356,6 +356,9 @@ Os principais entregáveis deste projeto incluem:
 ### Prototipação de telas
 **Tela de login**
 
+![image](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/3af7381b-ff75-4558-9398-b5caddd05977)
+
+
 <br />
 
 ---
