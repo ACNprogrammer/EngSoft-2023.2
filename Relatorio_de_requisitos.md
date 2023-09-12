@@ -13,6 +13,16 @@ Desenvolver uma plataforma de prestação de serviços que conecta prestadores d
 
 ### Objetivos
 
+* Conectar prestadores de serviços a usuários, facilitando a oferta e solicitação de serviços.
+* Permitir que prestadores de serviços criem perfis detalhados com informações pessoais, habilidades e preços.
+* Possibilitar aos usuários a criação de perfis com informações de contato e preferências.
+* Oferecer recursos de busca e filtragem de prestadores com base em critérios como localização e classificações.
+* Permitir que os usuários enviem solicitações de serviços de forma eficiente.
+* Manter registros de transações para que os usuários possam acessar seu histórico.
+* Facilitar a avaliação e revisão de prestadores de serviços.
+* Garantir um sistema de pagamento seguro para todas as transações.
+* Organizar o desenvolvimento do projeto em iterações definidas.
+
 ### Requisitos Funcionais
 Os **Requisitos Funcionais** são uma lista dos recursos e funcionalidades específicas que o sistema, produto ou serviço deve oferecer. Isso pode incluir funcionalidades como login de usuário, solicitação de serviços, geração de relatórios, etc.
 
