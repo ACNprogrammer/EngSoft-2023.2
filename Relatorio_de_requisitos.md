@@ -916,7 +916,7 @@ Os principais entregáveis deste projeto incluem:
 
 ### US11 - Notificar usuários sobre atualizações em solicitações de serviço.
 
-*Persona um, usuário comum.*
+**Usuário**
 
 |  User Story                                                                                                                                                  | Critério de aceitação                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |                                                              | "Enquanto um *usuário*, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." | Certificar que o usuário tenha feito uma solicitação. |
