@@ -401,6 +401,7 @@ Os principais entregáveis deste projeto incluem:
 | Nome do serviço             | Sim          | Sim       | Texto        |
 | Tipo             | Sim          | Sim       | Texto        |
 | Valor            | Sim          | Sim       | Numérico     |
+| Descrição            | Sim          | Sim       | Texto     |
 
 
 <br />
@@ -434,6 +435,17 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
+### Prototipação de telas
+**Botão que redireciona para a tela de cadastro de serviços**
+
+![image](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/5bf1e406-58c6-429f-8e7b-1d5d97c70af4)
+
+**Formulário de cadastro de serviço**
+
+![image](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/d34408cc-3e23-4aad-83b8-c6155fa67ac1)
+
+
+****
 ---
 
 ## **RF05 -  Buscar serviço por critérios**
