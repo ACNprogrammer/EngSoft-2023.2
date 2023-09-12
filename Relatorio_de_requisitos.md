@@ -640,6 +640,9 @@ Os principais entregáveis deste projeto incluem:
 | Passo 1.2 | O sistema informa que não existem serviços cadastradas  |
 <br />
 
+### Prototipação de telas
+**Tela enviar solicitação de serviços**
+
 
 ### US07 -  Responder solicitação de serviço
 
@@ -916,7 +919,7 @@ Os principais entregáveis deste projeto incluem:
 *Persona um, usuário comum.*
 
 | User Story                                                                                                                                                                    | Critério de aceitação                                                 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| "Enquanto um *usuário*, eu preciso visualizar e ser **notificado** se minha solicitação foi **aceita ou recusada**, caso tenha sido aceita, é preciso notificar sua **conclusão**." | Certificar que o usuário tenha feito uma solicitação. |
+| "Enquanto um usuário, eu preciso visualizar e ser *notificado* se minha solicitação foi *aceita ou recusada*, caso tenha sido aceita, é preciso notificar sua *conclusão*." | Certificar que o usuário tenha feito uma solicitação. |
 
 <br />
 
