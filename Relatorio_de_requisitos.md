@@ -80,14 +80,20 @@ Os principais entregáveis deste projeto incluem:
 
 ### Equipe de Projeto
  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
+ [Raphael Sales de Souza](https://github.com/raphaelsales)
+ [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
+[Jorge Antonio Motta Braga](https://github.com/jorgespark11)
+[Wanderson Melo](https://github.com/sadMello)
+[Pedro Trivelato](https://github.com/Ptrivelato)
+[Loenis Fernandes](https://github.com/loenisjunior)
 
 ###
 ## Épicos
 
-### Épico 1: Gerenciamento de Usuário -> RF01, RF15, R24
-### Épico 2: Gerenciamento de Serviços -> RF08, RF10, RF14, RF22
-### Épico 3: Gerenciamento de Solicitações de serviços -> RF09, RF11, RF23, RF27
-### Épico 4: Avaliação de serviços -> RF02, RF03, RF06, RF07, RF16, RF17, RF20, RF21, RF25, RF28
+### Épico 1: Gerenciamento de Usuário -> RF01, RF02, R03, RF10, RF12.
+### Épico 2: Gerenciamento de Serviços -> RF03, RF04, RF08, RF11.
+### Épico 3: Gerenciamento de Solicitações de serviços -> RF05, RF06, RF13.
+### Épico 4: Avaliação de serviços -> RF09, RF14.
 
 ## Iteração 1
 
