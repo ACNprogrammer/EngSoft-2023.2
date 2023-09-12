@@ -80,12 +80,12 @@ Os principais entregáveis deste projeto incluem:
 
 ### Equipe de Projeto
  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)<br/>
- [Raphael Sales de Souza](https://github.com/raphaelsales)<br/>
- [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)<br/>
-[Jorge Antonio Motta Braga](https://github.com/jorgespark11)<br/>
-[Wanderson Melo](https://github.com/sadMello)<br/>
-[Pedro Trivelato](https://github.com/Ptrivelato)<br/>
-[Loenis Fernandes](https://github.com/loenisjunior)<br/>
+ <br/>[Raphael Sales de Souza](https://github.com/raphaelsales)<br/>
+ <br/>[Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)<br/>
+<br/>[Jorge Antonio Motta Braga](https://github.com/jorgespark11)<br/>
+<br/>[Wanderson Melo](https://github.com/sadMello)<br/>
+<br/>[Pedro Trivelato](https://github.com/Ptrivelato)<br/>
+<br/>[Loenis Fernandes](https://github.com/loenisjunior)<br/>
 
 ###
 ## Épicos
