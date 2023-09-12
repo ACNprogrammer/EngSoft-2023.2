@@ -726,7 +726,7 @@ Os principais entregáveis deste projeto incluem:
 
 ### US08 - Realizar o pagamento seguro pelo serviço prestado.
 
-**Persona um, usuário comum.**
+**Usuário**
 
 | User Story                                                                                | Critério de aceitação                         |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -756,7 +756,7 @@ Os principais entregáveis deste projeto incluem:
 | Caso de uso     | RF09 - Avaliar e revisar prestadores de serviço;                                                          |
 | Resumo          | É esperado que o usuário tenha a possibilidade de olhar e fazer uma avaliação dos prestadores de serviço; |
 | Ator principal  | Usuário que faz uso da plataforma;                                                                        |
-| Ator secundário | Prestador de serviço;                                                                                     |
+| Ator secundário | Atores;                                                                                     |
 | Pré-condição    | É necessário que o usuário tenha uma conta na plataforma;                                                 |
 | Pós-condição    | É necessário que a avaliação seja visível para os usúarios e para o prestador de serviço;                 |
 <br />
@@ -800,7 +800,7 @@ Os principais entregáveis deste projeto incluem:
 
 ### US09 - Avaliar e revisar prestadores de serviço.
 
-**Persona um, usuário comum.**
+**Atores**
 
 | User Story | Critério de aceitação |
 | ---------- | --------------------- |
