@@ -507,6 +507,11 @@ Os principais entregáveis deste projeto incluem:
 | Enquanto "um ator" do sistema preciso poder pesquisar pelos mais diversos tipos de serviços. | Digitar corretamente no campo de pesquisa |
 
 <br/>
+### Prototipação de telas
+**Tela de busca de serviços**
+
+![image](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/869cf3be-3b58-4d49-89e1-61f109522fe8)
+
 
 ---
 
