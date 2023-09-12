@@ -883,7 +883,7 @@ Os principais entregáveis deste projeto incluem:
 
 #### Autor: [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Loenis Fernandes](https://github.com/loenisjunior)
 
 <br/>
 
@@ -931,9 +931,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Loenis Fernandes](https://github.com/loenisjunior)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
 <br/>
 
@@ -1002,9 +1002,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Pedro Trivelato](https://github.com/Ptrivelato)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Raphael Sales de Souza](https://github.com/raphaelsales)
 
 <br/>
 
@@ -1073,9 +1073,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Raphael Sales de Souza](https://github.com/raphaelsales)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Pedro Trivelato](https://github.com/Ptrivelato)
 
 <br/>
 
