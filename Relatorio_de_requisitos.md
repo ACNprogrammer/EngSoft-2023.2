@@ -1181,32 +1181,32 @@ Os principais entregáveis deste projeto incluem:
 
 ## Requisitos não funcionais
 
-**RNF01 - Usabilidade:**
+**RNF01 - Usabilidade:**<br/>
 A interface de usuário deve ser intuitiva e de fácil utilização, garantindo que os usuários possam navegar e usar a plataforma sem dificuldades.
 
-**RNF02 - Desempenho:** 
+**RNF02 - Desempenho:** <br/>
 A plataforma deve ser responsiva e garantir tempos de carregamento rápidos, mesmo quando há um grande número de usuários acessando simultaneamente.
 
-**RNF03 - Segurança:**
+**RNF03 - Segurança:**<br/>
 As informações dos usuários, como dados pessoais e informações de pagamento, devem ser armazenadas de forma segura e protegidas contra acesso não autorizado.
 
-**RNF04 - Escalabilidade:**
+**RNF04 - Escalabilidade:**<br/>
 A plataforma deve ser projetada para escalar facilmente, permitindo que mais usuários e prestadores de serviços sejam adicionados sem comprometer o desempenho.
 
-**RNF05 - Confiabilidade:** 
+**RNF05 - Confiabilidade:** <br/>
 A plataforma deve ser altamente confiável, minimizando o tempo de inatividade e garantindo que os serviços estejam disponíveis a maior parte do tempo.
 
-**RNF06 - Manutenibilidade:**
+**RNF06 - Manutenibilidade:**<br/>
 O código-fonte da plataforma deve ser bem documentado e organizado, facilitando a manutenção e implementação de futuras atualizações.
 
-**RNF07 - Compatibilidade do Navegador:**
+**RNF07 - Compatibilidade do Navegador:**<br/>
 A plataforma deve ser compatível com uma variedade de navegadores da web, garantindo que os usuários possam acessá-la independentemente do navegador que utilizam.
 
-**RNF08 - Acessibilidade:** 
+**RNF08 - Acessibilidade:** <br/>
 A plataforma deve ser acessível a pessoas com deficiência, seguindo as diretrizes de acessibilidade da Web (WCAG) para garantir uma experiência inclusiva.
 
-**RNF09 - Disponibilidade:**
+**RNF09 - Disponibilidade:**<br/>
 A plataforma deve estar disponível 24 horas por dia, 7 dias por semana, com manutenção programada realizada fora do horário de pico.
 
-**RNF10 - Proteção de Dados:** 
+**RNF10 - Proteção de Dados:** <br/>
 Todas as transações financeiras e informações pessoais dos usuários devem ser protegidas por criptografia de ponta a ponta para garantir a privacidade e segurança dos dados.
