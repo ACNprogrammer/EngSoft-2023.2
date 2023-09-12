@@ -131,9 +131,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Vinícius Maciel](https://github.com/viniciusDevelopment)
+#### Autor: [Raphael Sales de Souza](https://github.com/raphaelsales)
 
-#### Revisor: [Vinícius Maciel Pires](link_do_perfil_do_revisor)
+#### Revisor: [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
 
 <br/>
 
@@ -212,9 +212,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [@viniciusHPS3](https://github.com/viniciusHPS3) - Vinicius Maciel
+#### Autor: [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
 
-#### Revisor: [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
+#### Revisor: [Raphael Sales de Souza](https://github.com/raphaelsales)
 
 <br/>
 
@@ -280,9 +280,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [@viniciusuBrabo](https://github.com/viniciusuBrabo) - Vinicius Maciel
+#### Autor: [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
 
-#### Revisor: [vini](https://github.com/MateusAlvez)
+#### Revisor: [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
 
 <br/>
 
@@ -367,8 +367,8 @@ Os principais entregáveis deste projeto incluem:
 
 <br />
 
-#### Autor: [vini](https://github.com/erarich)
-#### Revisor: [vinicius Tavares](https://github.com/viniciusUFT)
+#### Autor: [Pedro Trivelato](https://github.com/Ptrivelato)
+#### Revisor: [Loenis Fernandes](https://github.com/loenisjunior)
 
 <br />
 
@@ -452,8 +452,8 @@ Os principais entregáveis deste projeto incluem:
 
 <br />
 
-#### Autor: Icaro Mesquita Ponce[@icarompo](https://github.com/icarompo)
-#### Revisor: vinicius Henrique Pinho Santos[@viniciusHPS3](https://github.com/viniciusHPS3)  
+#### Autor: [Loenis Fernandes](https://github.com/loenisjunior)
+#### Revisor: [Pedro Trivelato](https://github.com/Ptrivelato)
 <br />
 
 <br />
