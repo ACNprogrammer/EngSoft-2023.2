@@ -98,25 +98,25 @@ Os principais entregáveis deste projeto incluem:
 ## Iteração 1
 
 - [X] RF01 -  Cadastrar prestador de serviço. [Raphael Sales de Souza](https://github.com/raphaelsales) Revisado por  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
-- [X] RF02 - Cadastrar usuário. [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/) Revisado por [Vinícius Maciel Eduardo da Silva](https://github.com/viniciusuBrabo)
-- [X] RF03 -  Realizar Login.  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/) Revisado por [Vinícius Maciel Alves Araujo](https://github.com/MateusAlvez)
-- [X] RF04 -  Cadastrar serviços. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [Vinícius Maciel Tavares](https://github.com/viniciusUFT)
-- [X] RF05 -  Buscar serviços por critérios. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [vinicius Henrique Pinho Santos](https://github.com/viniciusHPS3)
-- [X] RF06 - Enviar solicitação de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [Vinícius Maciel Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF07 - Responder solicitação de serviço. [Wanderson Melo](https://github.com/sadMello) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF02 - Cadastrar usuário. [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/) Revisado por [Raphael Sales de Souza](https://github.com/raphaelsales)
+- [X] RF03 -  Realizar Login.  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/) Revisado por [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
+- [X] RF04 -  Cadastrar serviços. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [Loenis Fernandes](https://github.com/loenisjunior)
+- [X] RF05 -  Buscar serviços por critérios. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [Pedro Trivelato](https://github.com/Ptrivelato)
+- [X] RF06 - Enviar solicitação de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [Wanderson Melo](https://github.com/sadMello)
+- [X] RF07 - Responder solicitação de serviço. [Wanderson Melo](https://github.com/sadMello) Revisado por [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
 <br/>
 
 ## Iteração 2
 
 
-- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Wanderson Melo](https://github.com/sadMello) Revisado por [vini de Sousa Barbosa](https://github.com/vinizin1v9)
-- [X] RF09 - Avaliar e revisar prestadores de serviço.  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/) Revisado por [viniciuso Eduardo da Silva](https://github.com/viniciusuBrabo)
-- [X] RF10 -  Manter perfis de prestadores de serviço atualizados. [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/) Revisado por [vini](https://github.com/MateusAlvez)
-- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [vinicius Tavares](https://github.com/viniciusUFT)
-- [X] RF12 -  Permitir que os usuários editem seus perfis. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [Vinícius Maciel Henrique Pinho Santos](https://github.com/viniciusHPS3)
-- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [João Pedro Noronha](https://github.com/jpnoronhaa)
-- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento.  [Raphael Sales de Souza](https://github.com/raphaelsales) Revisado por [Vinícius Maciel Muriel do Nascimento Coelho](https://github.com/uiuqM)
+- [X] RF08 - Realizar o pagamento seguro pelo serviço prestado [Wanderson Melo](https://github.com/sadMello) Revisado por [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
+- [X] RF09 - Avaliar e revisar prestadores de serviço.  [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/) Revisado por [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
+- [X] RF10 -  Manter perfis de prestadores de serviço atualizados. [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/) Revisado por [Wanderson Melo](https://github.com/sadMello)
+- [X] RF11 - Notificar usuários sobre atualizações em solicitações de serviço. [Jorge Antonio Motta Braga](https://github.com/jorgespark11) Revisado por [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
+- [X] RF12 -  Permitir que os usuários editem seus perfis. [Loenis Fernandes](https://github.com/loenisjunior) Revisado por [Loenis Fernandes](https://github.com/loenisjunior)
+- [X] RF13 -   Implementar funcionalidade de pesquisa avançada de prestadores de serviço. [Pedro Trivelato](https://github.com/Ptrivelato) Revisado por [Pedro Trivelato](https://github.com/Ptrivelato)(https://github.com/jpnoronhaa)
+- [X] RF14 -Oferecer suporte a diferentes métodos de pagamento.  [Raphael Sales de Souza](https://github.com/raphaelsales) Revisado por [Raphael Sales de Souza](https://github.com/raphaelsales)(https://github.com/uiuqM)
 
 <br/>
 
