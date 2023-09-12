@@ -1178,3 +1178,35 @@ Os principais entregáveis deste projeto incluem:
 <br/>
 
 ---
+
+## Requisitos não funcionais
+
+**RNF01 - Usabilidade:**
+A interface de usuário deve ser intuitiva e de fácil utilização, garantindo que os usuários possam navegar e usar a plataforma sem dificuldades.
+
+**RNF02 - Desempenho:** 
+A plataforma deve ser responsiva e garantir tempos de carregamento rápidos, mesmo quando há um grande número de usuários acessando simultaneamente.
+
+**RNF03 - Segurança:**
+As informações dos usuários, como dados pessoais e informações de pagamento, devem ser armazenadas de forma segura e protegidas contra acesso não autorizado.
+
+**RNF04 - Escalabilidade:**
+A plataforma deve ser projetada para escalar facilmente, permitindo que mais usuários e prestadores de serviços sejam adicionados sem comprometer o desempenho.
+
+**RNF05 - Confiabilidade:** 
+A plataforma deve ser altamente confiável, minimizando o tempo de inatividade e garantindo que os serviços estejam disponíveis a maior parte do tempo.
+
+**RNF06 - Manutenibilidade:**
+O código-fonte da plataforma deve ser bem documentado e organizado, facilitando a manutenção e implementação de futuras atualizações.
+
+**RNF07 - Compatibilidade do Navegador:**
+A plataforma deve ser compatível com uma variedade de navegadores da web, garantindo que os usuários possam acessá-la independentemente do navegador que utilizam.
+
+**RNF08 - Acessibilidade:** 
+A plataforma deve ser acessível a pessoas com deficiência, seguindo as diretrizes de acessibilidade da Web (WCAG) para garantir uma experiência inclusiva.
+
+**RNF09 - Disponibilidade:**
+A plataforma deve estar disponível 24 horas por dia, 7 dias por semana, com manutenção programada realizada fora do horário de pico.
+
+**RNF10 - Proteção de Dados:** 
+Todas as transações financeiras e informações pessoais dos usuários devem ser protegidas por criptografia de ponta a ponta para garantir a privacidade e segurança dos dados.
