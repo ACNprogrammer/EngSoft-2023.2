@@ -202,6 +202,9 @@ Os principais entregáveis deste projeto incluem:
 ### Prototipação de telas
 **Tela de cadastro com marcação da opção 'Sou um prestador de serviços'**
 
+![image](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/b6d7912e-bb58-4063-9207-737a786b53a0)
+
+
 <br />
 ---
 
