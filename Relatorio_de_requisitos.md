@@ -520,9 +520,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [@vinizin1v9](https://github.com/vinizin1v9) - vini de Sousa Barbosa
+#### Autor: [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
-#### Revisor: [@jpnoronhaa](https://github.com/jpnoronhaa) - João Pedro Noronha
+#### Revisor: [Wanderson Melo](https://github.com/sadMello)
 
 <br/>
 
@@ -584,9 +584,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [João Pedro Noronha](https://github.com/jpnoronhaa)
+#### Autor: [Wanderson Melo](https://github.com/sadMello)
 
-#### Revisor: [Wilque Muriel do Nascimento Coelho](https://github.com/uiuqM)
+#### Revisor: [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
 <br/>
 
@@ -658,9 +658,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Wanderson Melo](https://github.com/sadMello)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
 
 <br/>
 
@@ -743,9 +743,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Vinícius Maciel Pires](https://github.com/ViniciusDevelopment/)
 
-#### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Revisor: [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
 
 <br/>
 
@@ -817,9 +817,9 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Antonio Cassio de Oliveira Neto](https://github.com/ACNprogrammer/)
 
-### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
+### Revisor: [Wanderson Melo](https://github.com/sadMello)
 
 <br/>
 
@@ -882,7 +882,7 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-#### Autor: [Antônio Cássio](https://github.com/ACNprogrammer)
+#### Autor: [Jorge Antonio Motta Braga](https://github.com/jorgespark11)
 
 #### Revisor: [Antônio Cássio](https://github.com/ACNprogrammer)
 
