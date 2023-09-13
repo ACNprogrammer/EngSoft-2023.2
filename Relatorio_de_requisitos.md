@@ -596,6 +596,12 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
+### Prototipação de telas
+**Tela com o botão de solicitar serviço**
+
+![WhatsApp Image 2023-09-12 at 21 21 00](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/0271f42b-cd74-4ad5-bd77-9d6e3a2f8246)
+
+
 ---
 
 ## **RF07 -  Responder solicitação de serviço**
@@ -829,6 +835,9 @@ Os principais entregáveis deste projeto incluem:
 
 ### Prototipação de telas
 **Tela de prestadores de serviços, com a seção de avaliações e com o botão de 'fazer uma avaliação'**
+
+![WhatsApp Image 2023-09-12 at 21 23 43](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/593299cf-d904-4bc8-b587-6e64e96ee817)
+
 
 <br/>
 
