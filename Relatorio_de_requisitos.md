@@ -601,6 +601,9 @@ Os principais entregáveis deste projeto incluem:
 
 ![WhatsApp Image 2023-09-12 at 21 21 00](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/0271f42b-cd74-4ad5-bd77-9d6e3a2f8246)
 
+**Segunda etapa da tela**
+
+![WhatsApp Image 2023-09-12 at 21 32 28](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/67427291/371da8a6-a520-4bea-852e-cc58112d47cb)
 
 ---
 
