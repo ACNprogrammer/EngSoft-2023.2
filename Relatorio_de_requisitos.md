@@ -765,6 +765,8 @@ Os principais entregáveis deste projeto incluem:
 ### Prototipação de telas
 **Tela de pagamento de serviço com aopção do serviço prestado, com a opção de método de pagamento e com a opção de efetuar pagamento**
 
+![image](![Imagem do WhatsApp de 2023-09-12 à(s) 21 34 19](https://github.com/ViniciusDevelopment/EngSoft-2023.2/assets/120330942/c12f5631-44e7-42b8-bbcf-d8fbabf9960c))
+
 <br/>
 
 ---
