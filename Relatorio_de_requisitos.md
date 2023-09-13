@@ -28,6 +28,25 @@ Os **Requisitos Funcionais** são uma lista dos recursos e funcionalidades espec
 
 ### Requisitos não funcionais
 Requisitos que não estão diretamente relacionados a funcionalidades específicas, mas são igualmente importantes. Isso pode incluir requisitos de desempenho, segurança, escalabilidade, usabilidade, entre outros.
+**RNF01 - Usabilidade:**<br/>
+
+* **RNF02 - Desempenho:** <br/>
+
+* **RNF03 - Segurança:**<br/>
+
+* **RNF04 - Escalabilidade:**<br/>
+
+**RNF05 - Confiabilidade:** <br/>
+
+**RNF06 - Manutenibilidade:**<br/>
+
+**RNF07 - Compatibilidade do Navegador:**<br/>
+
+**RNF08 - Acessibilidade:** <br/>
+
+**RNF09 - Disponibilidade:**<br/>
+
+**RNF10 - Proteção de Dados:** <br/>
 
 ### Atores
 **Usuário:** Este ator possui um nível de acesso básico dentro da aplicação. Suas principais ações incluem visualizar os serviços disponíveis e solicitar a prestação desses serviços.
