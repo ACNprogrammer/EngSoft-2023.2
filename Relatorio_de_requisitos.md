@@ -36,17 +36,17 @@ Requisitos que não estão diretamente relacionados a funcionalidades específic
 
 * **RNF04 - Escalabilidade:**<br/>
 
-**RNF05 - Confiabilidade:** <br/>
+* **RNF05 - Confiabilidade:** <br/>
 
-**RNF06 - Manutenibilidade:**<br/>
+* **RNF06 - Manutenibilidade:**<br/>
 
-**RNF07 - Compatibilidade do Navegador:**<br/>
+* **RNF07 - Compatibilidade do Navegador:**<br/>
 
-**RNF08 - Acessibilidade:** <br/>
+* **RNF08 - Acessibilidade:** <br/>
 
-**RNF09 - Disponibilidade:**<br/>
+* **RNF09 - Disponibilidade:**<br/>
 
-**RNF10 - Proteção de Dados:** <br/>
+* **RNF10 - Proteção de Dados:** <br/>
 
 ### Atores
 **Usuário:** Este ator possui um nível de acesso básico dentro da aplicação. Suas principais ações incluem visualizar os serviços disponíveis e solicitar a prestação desses serviços.
